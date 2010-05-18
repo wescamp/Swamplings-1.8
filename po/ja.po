@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2010-05-18 10:37+0200\n"
+"PO-Revision-Date: 2010-05-18 10:37+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. [campaign]: id=Swamplings
+#: Swamplings/_main.cfg:10
+msgid "Swamplings"
+msgstr ""
+
+#. [campaign]: id=Swamplings
+#: Swamplings/_main.cfg:11
+msgid "S"
+msgstr ""
+
+#. [campaign]: id=Swamplings
+#: Swamplings/_main.cfg:20
+msgid ""
+"&units/goblins/spearman-idle-8.png=Easy;*&units/goblins/impaler-attack-se-2."
+"png=Medium;&units/goblins/direwolver-moving.png=Hard"
+msgstr ""
+
+#. [campaign]: id=Swamplings
+#: Swamplings/_main.cfg:26
+msgid ""
+"The remarkable tale of Clammie, the chieftain of a primitive tribe of swamp "
+"goblins, who becomes involved in the intrigues and betrayals of the men of "
+"Wesnoth.\n"
+"\n"
+"  Version 0.3.5\n"
+"  \n"
+"  6 playable scenarios. Not Complete."
+msgstr ""
+
+#. [about]
+#: Swamplings/_main.cfg:31
+msgid "Campaign Design & Programming"
+msgstr ""
+
+#. [about]
+#: Swamplings/_main.cfg:37
+msgid "Art"
+msgstr ""
+
+#. [about]
+#: Swamplings/_main.cfg:46
+msgid "WML Hints & Tips"
+msgstr ""
+
+#. [trait]: id=swamp_savvy
+#: Swamplings/utils/traits.cfg:8
+msgid "swamp savvy"
+msgstr ""
+
+#. [trait]: id=swamp_savvy
+#: Swamplings/utils/traits.cfg:9
+msgid "female^swamp savvy"
+msgstr ""
+
+#. [trait]: id=swamp_savvy
+#: Swamplings/utils/traits.cfg:10
+msgid "Better defense and quicker in swamp"
+msgstr ""
