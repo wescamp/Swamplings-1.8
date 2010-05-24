@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-05-18 10:37+0200\n"
+"POT-Creation-Date: 2010-05-24 21:54+0200\n"
 "PO-Revision-Date: 2010-05-18 10:37+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -23,37 +23,73 @@ msgid "S"
 msgstr ""
 
 #. [campaign]: id=Swamplings
-#: Swamplings/_main.cfg:20
+#: Swamplings/_main.cfg:15
 msgid ""
 "&units/goblins/spearman-idle-8.png=Easy;*&units/goblins/impaler-attack-se-2."
 "png=Medium;&units/goblins/direwolver-moving.png=Hard"
 msgstr ""
 
 #. [campaign]: id=Swamplings
-#: Swamplings/_main.cfg:26
+#: Swamplings/_main.cfg:21
 msgid ""
 "The remarkable tale of Clammie, the chieftain of a primitive tribe of swamp "
 "goblins, who becomes involved in the intrigues and betrayals of the men of "
 "Wesnoth.\n"
 "\n"
-"  Version 0.3.5\n"
+"  Version 0.4\n"
 "  \n"
-"  6 playable scenarios. Not Complete."
+"  8 playable scenarios. Not Complete. Please post your comments on this "
+"campaign in the Wesnoth forum!"
 msgstr ""
 
 #. [about]
-#: Swamplings/_main.cfg:31
+#: Swamplings/_main.cfg:26
 msgid "Campaign Design & Programming"
 msgstr ""
 
 #. [about]
-#: Swamplings/_main.cfg:37
+#: Swamplings/_main.cfg:32
 msgid "Art"
 msgstr ""
 
 #. [about]
-#: Swamplings/_main.cfg:46
+#: Swamplings/_main.cfg:45
 msgid "WML Hints & Tips"
+msgstr ""
+
+#. [hides]: id=invisible
+#: Swamplings/utils/abilities.cfg:60 Swamplings/utils/abilities.cfg:61
+msgid "invisible"
+msgstr ""
+
+#. [hides]: id=invisible
+#: Swamplings/utils/abilities.cfg:63 Swamplings/utils/abilities.cfg:65
+msgid ""
+"invisible:\n"
+"Enemy units cannot see this unit, except for wolf-based units who can smell "
+"it if close enough. Hence except for wolf-based units, enemy units will not "
+"initiate an attack on this unit. Defense is at 80 percent for every terrain "
+"except water, where it is 70 percent."
+msgstr ""
+
+#. [advancement]: id=amla_hitpoints
+#: Swamplings/utils/amla.cfg:7
+msgid "Hitpoints +4 <20% XP Penalty>"
+msgstr ""
+
+#. [advancement]: id=amla_mel_damage
+#: Swamplings/utils/amla.cfg:22
+msgid "Melee damage +1 <20% XP Penalty>"
+msgstr ""
+
+#. [advancement]: id=amla_extra_attack
+#: Swamplings/utils/amla.cfg:37
+msgid "One extra attack, <100% XP Penalty>"
+msgstr ""
+
+#. [advancement]: id=amla_speed
+#: Swamplings/utils/amla.cfg:51
+msgid "Movement +1 <20% XP Penalty>"
 msgstr ""
 
 #. [trait]: id=swamp_savvy
