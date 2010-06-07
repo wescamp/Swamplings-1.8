@@ -2,10 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-05-24 21:54+0200\n"
+"POT-Creation-Date: 2010-06-07 13:09+0200\n"
 "PO-Revision-Date: 2010-05-18 10:37+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -35,7 +36,7 @@ msgid ""
 "goblins, who becomes involved in the intrigues and betrayals of the men of "
 "Wesnoth.\n"
 "\n"
-"  Version 0.4\n"
+"  Version 0.5\n"
 "  \n"
 "  8 playable scenarios. Not Complete. Please post your comments on this "
 "campaign in the Wesnoth forum!"
@@ -69,39 +70,4 @@ msgid ""
 "it if close enough. Hence except for wolf-based units, enemy units will not "
 "initiate an attack on this unit. Defense is at 80 percent for every terrain "
 "except water, where it is 70 percent."
-msgstr ""
-
-#. [advancement]: id=amla_hitpoints
-#: Swamplings/utils/amla.cfg:7
-msgid "Hitpoints +4 <20% XP Penalty>"
-msgstr ""
-
-#. [advancement]: id=amla_mel_damage
-#: Swamplings/utils/amla.cfg:22
-msgid "Melee damage +1 <20% XP Penalty>"
-msgstr ""
-
-#. [advancement]: id=amla_extra_attack
-#: Swamplings/utils/amla.cfg:37
-msgid "One extra attack, <100% XP Penalty>"
-msgstr ""
-
-#. [advancement]: id=amla_speed
-#: Swamplings/utils/amla.cfg:51
-msgid "Movement +1 <20% XP Penalty>"
-msgstr ""
-
-#. [trait]: id=swamp_savvy
-#: Swamplings/utils/traits.cfg:8
-msgid "swamp savvy"
-msgstr ""
-
-#. [trait]: id=swamp_savvy
-#: Swamplings/utils/traits.cfg:9
-msgid "female^swamp savvy"
-msgstr ""
-
-#. [trait]: id=swamp_savvy
-#: Swamplings/utils/traits.cfg:10
-msgid "Better defense and quicker in swamp"
 msgstr ""
