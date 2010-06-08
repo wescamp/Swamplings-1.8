@@ -3,24 +3,26 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-06-07 13:09+0200\n"
-"PO-Revision-Date: 2010-05-18 10:37+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2010-06-07 10:37+0200\n"
+"Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
+"Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
+"Language: cs\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #. [campaign]: id=Swamplings
 #: Swamplings/_main.cfg:10
 msgid "Swamplings"
-msgstr ""
+msgstr "Bláteníci"
 
 #. [campaign]: id=Swamplings
 #: Swamplings/_main.cfg:11
 msgid "S"
-msgstr ""
+msgstr "B"
 
 #. [campaign]: id=Swamplings
 #: Swamplings/_main.cfg:15
@@ -28,6 +30,8 @@ msgid ""
 "&units/goblins/spearman-idle-8.png=Easy;*&units/goblins/impaler-attack-se-2."
 "png=Medium;&units/goblins/direwolver-moving.png=Hard"
 msgstr ""
+"&units/goblins/spearman-idle-8.png=Lehká;*&units/goblins/impaler-attack-se-2."
+"png=Normální;&units/goblins/direwolver-moving.png=Těžká"
 
 #. [campaign]: id=Swamplings
 #: Swamplings/_main.cfg:21
@@ -41,26 +45,32 @@ msgid ""
 "  8 playable scenarios. Not Complete. Please post your comments on this "
 "campaign in the Wesnoth forum!"
 msgstr ""
+"Velkolepá pověst o Clammim, náčelniku primitivního kmene močálových skřetů, "
+"kteří byli zataženi do intrik a zrad velkých lidí království Wesnothu.\n"
+"\n"
+"  Verze 0.5\n"
+"  \n"
+"  8 hratelných scénářů. Není hotovo. Komentáře posílejte na diskusní fórum na wesnoth.org!"
 
 #. [about]
 #: Swamplings/_main.cfg:26
 msgid "Campaign Design & Programming"
-msgstr ""
+msgstr "Návrh a programování tažení"
 
 #. [about]
 #: Swamplings/_main.cfg:32
 msgid "Art"
-msgstr ""
+msgstr "Obrázky"
 
 #. [about]
 #: Swamplings/_main.cfg:45
 msgid "WML Hints & Tips"
-msgstr ""
+msgstr "Pomoc s WML"
 
 #. [hides]: id=invisible
 #: Swamplings/utils/abilities.cfg:60 Swamplings/utils/abilities.cfg:61
 msgid "invisible"
-msgstr ""
+msgstr "neviditelnost"
 
 #. [hides]: id=invisible
 #: Swamplings/utils/abilities.cfg:63 Swamplings/utils/abilities.cfg:65
@@ -71,3 +81,7 @@ msgid ""
 "initiate an attack on this unit. Defense is at 80 percent for every terrain "
 "except water, where it is 70 percent."
 msgstr ""
+"neviditelnost:\n"
+"Nepřátelské jednotky nemohou neviditelnou jednotku spatřit, s výjimkou "
+"vlkoidních jednotek, které ji mohou zblízka cítit. Proto tedy nemohou "
+"iniciovat útok. Obrana je pokaždé 80 procent, pouze ve vodě klesá na 70."
