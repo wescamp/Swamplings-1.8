@@ -1,0 +1,18 @@
+border_size=1
+usage=map
+
+Rd^Uf       , Rd^Uf       , Rd^Uf       , Rd          , Rd          , Ss          , Ss          , Ss^Uf       , Gg          , Ss          , Ss          , Ww          , Ww          , Ss          , Ss          , Ss          , Re          
+Re          , Rd^Uf       , Rd^Uf       , Rd^Uf       , Rd^Uf       , Ss          , Ss          , Gg^Uf       , Ss          , Gg          , Ss          , Ss          , Ww          , Ss          , Ss          , Ss          , Re          
+Re^Uf       , Re          , Re          , Gg^Vo       , Gs^Uf       , Gg          , Gg          , Ss          , Ss          , Ss          , Gg^Vo       , 1 Ss        , Ww          , Ss          , Ss          , Re          , Ss          
+Rd^Uf       , Rd^Uf       , Rd^Uf       , Re          , Re          , Gg          , Rd          , Gg          , Gg          , Ss          , Gg          , Wwf         , Re          , Ss          , Ww          , Ss          , Ss          
+Hh          , Hh          , Hh^Fdw      , Rd^Uf       , Rd          , Re          , Re          , Rd          , Re          , Gg          , Re          , Re          , Wwf         , Wwf         , Ss          , Ww          , Ww          
+Hh          , Hh          , Rd^Uf       , Rd^Uf       , Rd^Uf       , Rd          , Rd^Uf       , Re          , Rd          , Re          , Gg          , Gg          , Ss          , Ss          , Ss          , Ss          , Ww          
+Rd^Uf       , Hh^Fdw      , Rd^Uf       , Rd^Uf       , Hh^Fdw      , Hh^Fdw      , Rd^Uf       , Re          , Rd          , Rd          , Rd          , Gg          , Wwf         , Ss          , Wwf         , Ss          , Ss          
+Rd^Uf       , Rd^Uf       , Rd^Uf       , Hh^Fdw      , Hh^Fdw      , Hh^Fdw      , Rd^Uf       , Re          , Re          , Rd          , Gg^Uf       , Gg          , Ss          , Ss          , Wwf         , Ss          , Ss          
+Hh          , Hh          , Hh^Fdw      , Hh^Fdw      , Hh^Fdw      , Hh^Fdw      , Rd^Uf       , Gs^Uf       , Re          , Gg^Uf       , Gs^Uf       , Gg          , Wwf         , Ss          , Ss          , Ss          , Ww          
+Hh          , Hh          , Hh          , Hh^Fdw      , Rd^Uf       , Rd^Uf       , Re^Vct      , Rd^Uf       , Re          , Gg^Uf       , Gs^Uf       , Gg          , Gg          , Ss          , Ss          , Ss^Uf       , Ww          
+Hh          , Hh          , Hh          , Rd^Uf       , Rd^Uf       , Rd^Uf       , Rd^Uf       , Rd^Uf       , Re          , Gg^Uf       , Gs^Uf       , Gg          , Gg          , Ss          , Ss          , Ss          , Ww          
+Hh          , Hh          , Hh          , Rd^Uf       , Rd^Uf       , Rd^Uf       , Rd^Uf       , Rd^Uf       , Re          , Gg^Uf       , Gs^Uf       , Gg          , Gg          , Ss          , Ss          , Ss          , Ww          
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          

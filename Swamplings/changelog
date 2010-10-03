@@ -1,3 +1,186 @@
+Version 1.1e - 9/28/10
+- S1: Changed Shining's AI to passive leader. Increased the size of Clammie's keep.
+- S5: In hard games, enemy units are inside the first secret passageway. Units are pushed if they occupy a hex that turns into a wall. Units die if they trigger enough traps to go below zero hp. Rat King can recruit a limited number of Bosavi, based on difficulty level.
+- S6: Changed Cat's AI to passive leader. Placed hills around Cat's keep. Cat's bodyguards now appear on the first turn to avoid tomato surprise. 
+- S11: Misris can now recruit Wolf Riders. Fixed Zslap description to include her skirmish ability.
+- S13: Fixed objectives screen so it won't display at the saurian's first turn. Fixed Hertrazzir description to include her skirmish ability.
+- S14: Finally fixed the Seven Bones: in Hard games, the entrance is always open; in Normal, the entrance opens right after you meet Xaztex; in Easy, the entrance opens after the meeting with the Swift One. In Easy games, non-flying units may also enter. Tyranny the death knight now has the submerge ability. Bones cave terrain is now cave path. Once multi spear is picked up, there are no more prompts if you want to pick it up. Fixed visible fog clearer by dire wolf altar. Fixed an issue with some Swamp Wolves, Great Wolves and Wolf Riders that appeared unable to go to level 3. The area that triggers Lavinia's appearance is slightly larger.
+- Changed some movement costs and defenses for bosavi and giant rat. They are quicker in caves and forests, less vulnerable in caves and villages, more vulnerable in shallow water, on hills and mountains. Bosavi now have the ability to skirmish.
+- Ghast movetype is now "gruefoot."
+- Clammie now has the leader ellipse.
+- Saurian leaders Sklizle, Zslap and Hertrazzir are specifically given female genders.
+- Ran the whole enchilada thru wmllint.
+
+Version 1.0.8 - 9/6/10
+- S16: Fixed bug that brought orcs & saurians into the battle in turn 2 instead of turn 10. Fixed display of new objectives for side 7 after turn 15. Enemy has more gold and less limits on the number of level 2's they may recruit. A village near Shining's keep is now owned by Phillips' team, to keep them from wandering too far south. If you try to kill the Archduke with bats, his bodyguards appear and defend him. Fixed a reference to Hertrazzir as "he."
+- S6: Same trick with Cat: if you try to kill her with bats, other units appear and defend her.
+- S5: Expanded map, giving Clammie and Kennison many places to hide from the Archduke's guards. Clammie's chance to be hit has been set to zero for a shorter number of rounds (previously a random number less than 10, now a random number less than 6). Giant rats now have a leader and a keep. Added Stern's new swinging trumpeter sprite. After much fuss with Rhyging's animated wall torch, I had to settle for one frame of torch set low to the wall. Full torch animation will be included in 1.9. Added new quintain sprite. Added West's "Desert Chase" music.
+- S9: Greta will not speak at Ronry's grave.
+- S13: Flipped Harxias portrait so you can see his portrait and sprite at the same time. Fixed another reference to Hertrazzir as "he."
+- S14: New limits on the number of contemporaneous Wraiths Zaxtex may recruit: one for Hard games, two for Normal, no limit for Easy. Added Stern's ghast sprite. Made ghast regenerating. In easy games, the healing potion Um Brok drinks will actually work now. Removed three villages. The Multi-Spear Guardian no longer attacks from a chasm, so hopefully he will actually attack more often. Changed caution on side three to 0 for the same reason. Shroud is cleared before battles between Xaztex's spirits and Kleezyx's minions.
+- S15: Game now scrolls to Bort on his turn. Reduced the number of villages from 22 to 15. Added Santiago Iborra's goblin portrait.
+- S1: Shining recruits Woodsmen once you've killed all his Horsemen. (Originally reported but not included: Increased the size of Clammie's keep.)
+- S2,5,12: Turn limits are incrementally expanded as new objectives are given, so the total number of turns you get depends on your progress.
+- Campaign descriptions will no longer say Swamplings has 16 scenarios, since two of those scenarios do not have battles.
+- Archduke's and Shining's experience points will not get reset to zero at any part of the campaign.
+- Began phasing out unnecessary unit WML files. Pillager file is no longer being used, but is still in the units folder, to ensure some backward compatibility for users who update the campaign while they're in the middle of playing it. If all goes well with the Pillager, future updates will phase out other units.
+- Removed deprecated begin= and end= keys from all units. Fixed Giant Rat and Bosavi to get better movement and defense in water. Very subtle change to Wolf Rider description.
+
+Version 1.0.7 - 8/14/10
+- S5: Fixed bug with Kennison recalling the secret passage too soon.
+- S6: Fixed bug with Cat.
+
+Version 1.0.6 - 8/13/10
+- S8: fixed bug where Clammie's type is incorrectly restored after riding the wolf.
+- S16: fixed bug where Sydd fights on the wrong side. Either Sydd or Yryrcyn are recalled in turn 10, not both.
+- S6-16: Greta the Bosavi rat is automatically recalled at the start of each scenario (except Thunderstruck).
+- S10: added the tale of the feather.
+- S2: added the original "sad.ogg" from Northern Rebirth.
+- S5: fixed moveto event to trigger if you walk up behind Kennison. Also, you no longer will get a double portion of rats if Greta dies before you get to the bridge. However, if you skip the village, go to the bridge, trigger the rat event, then turn around and go back and enter the village, you will still get twice as many rats attacking you, and you deserve it.
+- New portraits: added Santiago Iborra's swordsman portrait, Lord Bob's TROW Jessica portrait for Cat, and Bera's Margrave portrait for Hertrazzir. Juggled around some other saurian portraits. Added Kaldred's statues to Dire Cave.
+- Increased Goblin Wose hitpoints from 43 to 50. Increased Firefly hitpoints from 44 to 50, movement from 9 to 10. Increased Cutthroat hitpoints from 46 to 50, attacks from 3 to 4. Increased Moonbeam attacks from 2 to 3. Increased Nocturne club attacks from 2 to 3 (bolas remains 2). Updated custom amla descriptions so you'll know which ones do not have full healing. Experience is standardized at 100 for "dead end" level two units: Nocturne, Wose, Peltast, Jinx. Mosquito will level to Rabid Buzzblood at 30. Giant Rat will level to Bosavi. Gave Bosavi a regular zone of control.
+- Map filenames all end in .map Not exactly the most-demanded of improvements, but there you are.
+- Added GPL 2 license, so it really looks as if I know what I'm doing now.
+
+Version 1.0.5 - 8/9/10
+- S14: Removed magic talking key events entirely, because of reported crashing in Ubuntu. When white altar glimmers, it no longer rotates accidentally.
+
+Version 1.0.4 - 8/8/10
+- S10-11: fixed some problems with Misris' experience. She will start turn 1 in S11 as the same unit she was at the end of S9, and there's a menu to permanently change her to a wolf rider if you want to. There is also a very very minor adjustment to Eeep, to reflect the fact that dim Impalers need more 6 xp to level up than dim wolf riders, so a level two Eeep will get 6 xp extra after switching. Added warning about a problem with changing Eeep or Misris to a wolf rider during another side's turn: if you do this, you won't get to pick your levelup choices. So don't do this.
+- All Moonbeam units now require 30 xp to level up. Sorry it was so high before.
+- S9: There's also a chance of Eeep getting gypped out of 6 xp here too, so it's automatically awarded to Eeep if he starts this scenario at level 2. Also added a little message from the narrator so his levelup isn't quite so abrupt.
+- S6: Changed scatter area for wild things, so they appear a little closer to your keep. Changed their ai to avoid the rogue's keep. Also, if you really want to load the scenario out of the blue, you can do that now and still have Eeep.
+- S5: The water in the sewer now has the animated water from Alarantalara's campaign Roar of the Woses. Changed the way the assassin Clammie and the "real" Clammie are stored and switched, so the annoying scroll at the start of each turn is gone. Cut the amount of gold on hard from 200 to 150. Removed event that triggered defeat if you attack Kennison from behind. Some slight map redesign. I may have made this level too easy - but a more thorough redesign is on the way. Changed the scatter macro so rats don't get trapped in deep water or appear inside walls. Fixed a rare problem with place_shroud.
+- S2: If you keep killing bats, Ronry tells you to stop doing that.
+- S14: Wider trigger to fire Lavinia's first message. Added variable so she doesn't repeat herself. Xaztex's spirits no longer squat on top of the magical key.
+- S1: Shining now has -2 income on easy games.
+- Passing references to Haldric, Hamel and Knalga have been removed. Haldric and Hamel haven't been born yet, and Knalga is so far away it's unlikely the thundersticks would be called "Knalgan craftsmanship."
+
+Version 1.0.3 - 8/3/10
+- S6: fixed bug where Eeep loses all XP. (You'll need to replay from the beginning of "At Death's Door" to get your Eeep XP saved properly)
+- S9: fixed bug which would have caused multiple Eeeps to appear on recall list in S12. Also, if Eeep levels up in this scenario, he will start S11 as the same unit he is now. If he was level two in an earlier scenario, he will start this level as your choice of goblin knight or pillager.
+- S11-16: if you change Eeep to wolf rider and he is already level 2, he will become your choice of goblin knight or pillager. If you managed to get him to level 3 in S9, he will remain at that level for the rest of the campaign (although direwolf riders will be able to go to level 4 after S14).
+- S12: threw out some code that was helpful for testing, but potentially disastrous to recall list consistency.
+- S12-16: Augalol's hilarious recall quips will be spoken by Duldursil if Aug's no longer with us.
+- S15,16: replaced buggy mainline fog clearer macros.
+
+Version 1.0.2 - 8/1/10
+- S12: fixed major bug where Clammie loses all XP.
+
+Version 1.0.1 - 8/1/10
+- S7: fixed bug with sides.
+- S1: updated objectives in case you fail to find Eeep.
+- S6: if you recall Misris in the first turn, she will speak from the keep.
+- S11: scroll to the dwarves at the start of their turns.
+- S15: fixed an uncooperative fog clearer next to Erong. Improved the map a bit.
+- S17: expanded Reed's story and added a bit about wolf riding. Added JWL's wolf rider art.
+- Fixed Phillips' xp and level so he won't go back to start in S16.
+- Fixed a markup issue and confusing info in some carryover reports.
+- Cleared some var's that were cluttering up the place.
+
+Version 1.0 - 7/29/10
+- Swamplings is now complete and you can play it through to the conclusion.
+- S16: new scenario: Full Circle. The final battle between Clammie and the Archduke.
+- S17 epilogue. The ultimate fate of our principal characters is revealed.
+- added new Bosavi sprites.
+- S16: added Lord Bob's orc leader portrait.
+- S17: added Scavenger's story art.
+- S13: fixed gold carryover from 80% to 40%. Fixed bug when recalling Impaler version of Eeep after objectives are met.
+- S14: changed access to the Deadly Bones for Easy and Normal games. Gave Um Brok a levelup to Boulderlobber. Made Xaztex un-killable. Took early finish bonus away, since there's no turn limit.
+- S15: Put bonus in, since there is a turn limit here.
+- S12: added dire wolf story, with art by JAP.
+- S11: goblin moonbeams can now raid the thunderstick wagon too.
+- S7: stored Tikitiki's experience so it will carry over to the final scenario.
+- S5: finally fixed problems keeping Clammie's level and XP straight.
+- S4: Clammie will remain poisoned in this scenario even if he levels up.
+- S1: made getting from the keep to the fortress a lot quicker for the gobos.
+- S8,10,11,14: Smoothed out scrolling in cutscenes.
+- changed Bigbash's name to Headbag.
+
+Version 0.9.2 - 7/24/10
+- S7: fixed error where I renumbered side 2 as side 4 for some bonehead reason. Also gave side 2 a save_id.
+- S11: gave saurian leader level 2 leadership ability.
+- S12-16: Removed recruiting power and gold crown from Misris.
+- added Eeep wolf rider portrait.
+
+Version 0.9.1 - 7/22/10
+- new unit: Goblin Firefly, levelup from Pillager, with Nightstalk.
+- fixed accidental change to Eeep's portrait.
+- added JAP's landscape art.
+- S15: added Lord Bob's orcish sovereign portrait.
+- S15: added level 2 orc foes on normal & hard difficulties.
+- S15: fixed fog for side 3.
+- S15: fixed recruited Thundergobos to be swamp savvy.
+- S15: fixed boneheaded bug that wouldn't let you recruit the proper wolf riders.
+- S15: fixed an even more boneheaded bug that took away the recall list.
+
+Version 0.9 - 7/18/10
+- S15: new scenario. Hammerheads. A secret about the swamplings is revealed. The tribe defends a band of archers who have escaped from the orcs.
+- S14: adjusted ai on Deadly Bones to make them more aggressive.
+- S14: made Easy games easier. You start with 100 more gold (600 instead of 500), and Xaztec's ghosts will remain when he leaves.
+- S14: Goblin Knights and Great Wolves can level up after Skandix's transformation.
+- S15: added Lord Bob's orc grunt and crossbowman portraits.
+- added two more Bera goblin portraits.
+- S13: fixed attack_end event so it actually works now.
+- revised campaign to use Wolf Riders that will level up to custom units.
+- new unit: Goblin Cutthroat. A levelup from the Goblin Pillager, the Cutthroat can pickpocket and gains extra moves and attacks after a kill.
+- new unit: Vundergobo! The Vundergobo is a level 1 Thundergobo with a slightly lower chance of misfiring and shooting himself.
+- new unit: Goblin Jinx. A levelup from the Goblin Mimic, the Jinx is basically as good as a saurian augur, although he'll be a bit dim, weak or slow.
+- new units: Goblin Moonbeam, Goblin Nocturne. Mixed fighters with Nightstalk ability. 
+- new unit: Goblin Peltast, a level 2 javelineer. Goblin Wose, level 2 heavy infantryman.
+- Fixed north facing ranged attack for Thundergobo.
+
+Version 0.8 - 7/12/10
+- S14: new scenario. Dire Cave. Clammie and his tribe explore the cave of the Dire Wolf.
+- S14: added inferno8's Master of Fire unit from Era of Magic.
+- S14: added Alarantalara's waterfall, animated pool and cave water tiles from Roar of the Woses.
+- S14: added Rhyging's blazing mausoleum tile.
+- S14: added Valkier's undead portraits (ghoul, draug, draug2, archer, banebow, bone shooter).
+- S14: added Jormungandr's saurian augur portrait.
+- new unit: Direwolf Master. A higher level for Direwolf Rider.
+- S13: Fixed bug that prevented recalls.
+- S13: Brief amusing event if you recall Augalol.
+- S12: Removed recruiting power and gold crown from impaler type Eeep. Fixed Kennison's experience and poison.
+- S5: Fixed leading animation on Phillips' sprite.
+- Fixed north facing ranged attack for Goblin Leader unit.
+- end credit sequence added.
+- S1,5,9,10,11,12: Flag variants for knalgans and loyalists.
+
+Version 0.7 - 6/28/10
+- S13: new scenario. The Ruins of Xaffrasz. Clammie's tribe helps the saurian refugees in their battle against the Naga.
+- added Stern's new mosquito sprite, custom-made for this campaign.
+- Clammie now levels up to a Goblin Trumpeter, then Goblin Leader. (Note: this new feature will not work in saved games from earlier versions of Swamplings).
+- new unit: Rabid Buzzblood. A tougher mosquito, with berserker sting.
+- new unit: Goblin Mimic. After serving a lifetime as slave to saurian augurs, the goblin mimic has learned to mimic the augur's heal spell as well as the chilling curse.
+- new unit: Goblin Slave. A mega-under-powered unit that levels up to the level 0 Goblin Spearman.
+- S5: different sprite and portrait for Phillips. Sprite from TSG campaign ("Gerrick"). Commander portrait by Scavenger (will not display in games continued from an old savegame). 
+- S5: Sewer rat battle will now happen whether you recruit Greta or not.
+- removed wolf.cfg file (which was not being used) and adjusted the xp required to levelup.
+- changed damage on Thundergobo from 18 to 15. Minor updates to attack frames.
+- S5: fixed Greta to be loyal (instead of merely having the brass ring overlay).
+- wmllint error fixes throughout.
+
+Version 0.6 - 6/19/10
+- S1,3,6,11: All wolves in the game can now level up, from Wolf to Great Wolf to Direwolf.
+- S11: New Thundergobo sprite, thanks to Elvish_Hunter. 
+- S11: Moved caravan icon to avoid troubles for Linux users who do not have Sceptre of Fire installed.
+- S5: fixed weird glitchy thing that happens when you place a shroud over a fire-aura halo. Also gave the Archduke's sewer a nice unhealthy green cast.
+- S12: new scenario. Meet Mister Blydd. Clammie is caught in the middle of an epic battle between the Archduke and his rebellious commander.
+
+Version 0.5.1 - 6/17/10
+- S6,S11: fixed major bug that destroyed Clammie's recall list.
+- S4: fixed issue with Clammie's experience not carrying over to the next scenario.
+- S5: fixed the possibility of Clammie leveling from rouser to an orc slayer.
+- S9: fixed bugs in Eeep's attacks and experience. Fixed Clammie's experience.
+- S11: fixed Eeep's & Misris' experience. Fixed avoid tag for Wild Things. 
+- established separate death event file for secondary characters.
+- fixed magenta on difficulty level icons.
+- fixed issue with Giant Rat icons not displaying for Linux users who have not installed Descent into Darkness.
+- S3,S9: fixed little brass rings for loyal units.
+- S4: made the area that triggers the mosquito event slightly larger. (It is still possible to not trigger this event if you take a circuitous route and avoid the milkweed altogether. I'm not going to force it.)
+- S5,S9: more fixes to incidental conversations that might involve creatures who cannot speak.
+- S8: removed two unearned wolves from the recall list.
+
 Version 0.5 - 5/28/10
 - Added UMC Music dependency. This add-on has some really great music, well worth the download.
 - S5: Greta has now become a Bosavi Giant Woolly Rat, complete with 4 AMLA choices.
