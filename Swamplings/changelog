@@ -1,3 +1,10 @@
+Version 1.1.2e - 10/13/10
+- New trumpeter sprites by Stern.
+- New unmanned caravan in Thunderstruck.
+- S12: Greta no longer appears in recall list and on the map at the same time.
+- Added the missing Wolf Rider 2 file to units folder.
+- Ran wmlindent.
+
 Version 1.1e - 9/28/10
 - S1: Changed Shining's AI to passive leader. Increased the size of Clammie's keep.
 - S5: In hard games, enemy units are inside the first secret passageway. Units are pushed if they occupy a hex that turns into a wall. Units die if they trigger enough traps to go below zero hp. Rat King can recruit a limited number of Bosavi, based on difficulty level.
