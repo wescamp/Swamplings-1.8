@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-10-03 12:51+0200\n"
+"POT-Creation-Date: 2010-11-13 02:14+0100\n"
 "PO-Revision-Date: 2010-06-07 10:37+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
@@ -45,7 +45,7 @@ msgid ""
 "Clammie, the chieftain of a primitive tribe of swamp goblins, becomes "
 "involved in the intrigues and betrayals of men.\n"
 "\n"
-"  Version 1.1e\n"
+"  Version 1.1.2e\n"
 "\n"
 "  14 scenarios. Complete. Please post your comments on this campaign in the "
 "Wesnoth forum!"
@@ -60,7 +60,7 @@ msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:28 Swamplings/scenarios/17_Credits.cfg:275
+#: Swamplings/_main.cfg:28 Swamplings/scenarios/17_Credits.cfg:263
 msgid "Campaign Design & Programming"
 msgstr "Návrh a programování tažení"
 
@@ -81,55 +81,55 @@ msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:49 Swamplings/scenarios/17_Credits.cfg:296
+#: Swamplings/_main.cfg:49 Swamplings/scenarios/17_Credits.cfg:284
 msgid "blazing mausoleum & wall torches"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:55 Swamplings/scenarios/17_Credits.cfg:303
+#: Swamplings/_main.cfg:55 Swamplings/scenarios/17_Credits.cfg:291
 msgid "undead portraits"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:61 Swamplings/scenarios/17_Credits.cfg:310
+#: Swamplings/_main.cfg:61 Swamplings/scenarios/17_Credits.cfg:298
 msgid "goblin portraits"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:67 Swamplings/scenarios/17_Credits.cfg:317
+#: Swamplings/_main.cfg:67 Swamplings/scenarios/17_Credits.cfg:305
 msgid "commander portrait & story art"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:73 Swamplings/scenarios/17_Credits.cfg:331
+#: Swamplings/_main.cfg:73 Swamplings/scenarios/17_Credits.cfg:319
 msgid "saurian augur portrait"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:79 Swamplings/scenarios/17_Credits.cfg:324
+#: Swamplings/_main.cfg:79 Swamplings/scenarios/17_Credits.cfg:312
 msgid "orc portraits"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:85 Swamplings/scenarios/17_Credits.cfg:338
+#: Swamplings/_main.cfg:85 Swamplings/scenarios/17_Credits.cfg:326
 msgid "swordsman portrait"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:91 Swamplings/scenarios/17_Credits.cfg:346
+#: Swamplings/_main.cfg:91 Swamplings/scenarios/17_Credits.cfg:334
 msgid "waterfalls, animated pool and cave water tiles"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:97 Swamplings/scenarios/17_Credits.cfg:374
+#: Swamplings/_main.cfg:97 Swamplings/scenarios/17_Credits.cfg:362
 msgid "landscape art"
 msgstr ""
 
@@ -140,7 +140,7 @@ msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:109 Swamplings/scenarios/17_Credits.cfg:353
+#: Swamplings/_main.cfg:109 Swamplings/scenarios/17_Credits.cfg:341
 msgid "mangroves and submerged trees"
 msgstr ""
 
@@ -202,42 +202,42 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Swamplings/scenarios/01_Shining.cfg:34
-#: Swamplings/scenarios/01_Shining.cfg:505
-#: Swamplings/scenarios/01_Shining.cfg:532
-#: Swamplings/scenarios/01_Shining.cfg:610
-#: Swamplings/scenarios/01_Shining.cfg:637
+#: Swamplings/scenarios/01_Shining.cfg:504
+#: Swamplings/scenarios/01_Shining.cfg:531
+#: Swamplings/scenarios/01_Shining.cfg:609
+#: Swamplings/scenarios/01_Shining.cfg:636
 msgid "Defeat Knight Shining"
 msgstr ""
 
 #. [objective]: condition=lose
 #: Swamplings/scenarios/01_Shining.cfg:38
-#: Swamplings/scenarios/01_Shining.cfg:509
-#: Swamplings/scenarios/01_Shining.cfg:536
-#: Swamplings/scenarios/01_Shining.cfg:614
-#: Swamplings/scenarios/01_Shining.cfg:641
+#: Swamplings/scenarios/01_Shining.cfg:508
+#: Swamplings/scenarios/01_Shining.cfg:535
+#: Swamplings/scenarios/01_Shining.cfg:613
+#: Swamplings/scenarios/01_Shining.cfg:640
 #: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:325
 #: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:356
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:437
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:627
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:451
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:628
 #: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:826
 #: Swamplings/scenarios/02_Healer_And_Slayer.cfg:327
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:832
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1236
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:831
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1238
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:553
 #: Swamplings/scenarios/06_Rogues_Reward.cfg:338
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:437
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:436
 #: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:397
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1012
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1914
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2239
-#: Swamplings/scenarios/14_Dire_Cave.cfg:719
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1671
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2479
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2865
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1011
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1912
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2236
+#: Swamplings/scenarios/14_Dire_Cave.cfg:717
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1662
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2465
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2850
 #: Swamplings/scenarios/03_Exodus.cfg:259
 #: Swamplings/scenarios/04_At_Deaths_Door.cfg:137
-#: Swamplings/scenarios/16_Full_Circle.cfg:600
-#: Swamplings/scenarios/16_Full_Circle.cfg:1130
+#: Swamplings/scenarios/16_Full_Circle.cfg:599
+#: Swamplings/scenarios/16_Full_Circle.cfg:1129
 #: Swamplings/scenarios/09_Clammie_The_Healer.cfg:535
 #: Swamplings/scenarios/15_Hammerheads.cfg:362
 #: Swamplings/scenarios/15_Hammerheads.cfg:389
@@ -246,24 +246,24 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: Swamplings/scenarios/01_Shining.cfg:42
-#: Swamplings/scenarios/01_Shining.cfg:521
-#: Swamplings/scenarios/01_Shining.cfg:544
-#: Swamplings/scenarios/01_Shining.cfg:626
-#: Swamplings/scenarios/01_Shining.cfg:649
+#: Swamplings/scenarios/01_Shining.cfg:520
+#: Swamplings/scenarios/01_Shining.cfg:543
+#: Swamplings/scenarios/01_Shining.cfg:625
+#: Swamplings/scenarios/01_Shining.cfg:648
 #: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:341
 #: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:372
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:445
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:643
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:459
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:644
 #: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:842
 #: Swamplings/scenarios/02_Healer_And_Slayer.cfg:335
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:840
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1240
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:839
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1242
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:569
 #: Swamplings/scenarios/06_Rogues_Reward.cfg:350
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:453
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:452
 #: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:401
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1922
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2247
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1920
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2244
 #: Swamplings/scenarios/11_Thunderstruck.cfg:627
 #: Swamplings/scenarios/11_Thunderstruck.cfg:650
 #: Swamplings/scenarios/11_Thunderstruck.cfg:673
@@ -282,8 +282,8 @@ msgstr ""
 #. [side]: type=Direwolf Rider Sw, id=Clammie
 #: Swamplings/scenarios/01_Shining.cfg:52
 #: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:42
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:42
-#: Swamplings/scenarios/17_Credits.cfg:234
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:46
+#: Swamplings/scenarios/17_Credits.cfg:222
 #: Swamplings/scenarios/02_Healer_And_Slayer.cfg:20
 #: Swamplings/scenarios/08_Ride_The_Wolf.cfg:33
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:33
@@ -293,7 +293,7 @@ msgstr ""
 #: Swamplings/scenarios/14_Dire_Cave.cfg:18
 #: Swamplings/scenarios/03_Exodus.cfg:19
 #: Swamplings/scenarios/04_At_Deaths_Door.cfg:28
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:543
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:541
 #: Swamplings/scenarios/16_Full_Circle.cfg:33
 #: Swamplings/scenarios/09_Clammie_The_Healer.cfg:32
 #: Swamplings/scenarios/15_Hammerheads.cfg:91
@@ -306,8 +306,8 @@ msgstr ""
 #. [side]: type=Direwolf Rider Sw, id=Clammie
 #: Swamplings/scenarios/01_Shining.cfg:62
 #: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:50
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:39
-#: Swamplings/scenarios/17_Credits.cfg:242
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:43
+#: Swamplings/scenarios/17_Credits.cfg:230
 #: Swamplings/scenarios/02_Healer_And_Slayer.cfg:25
 #: Swamplings/scenarios/08_Ride_The_Wolf.cfg:40
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:40
@@ -330,8 +330,8 @@ msgstr ""
 #: Swamplings/scenarios/01_Shining.cfg:77
 #: Swamplings/scenarios/01_Shining.cfg:135
 #: Swamplings/scenarios/01_Shining.cfg:372
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2664
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:622
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2657
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:620
 #: Swamplings/scenarios/16_Full_Circle.cfg:142
 #: Swamplings/scenarios/09_Clammie_The_Healer.cfg:54
 #: Swamplings/scenarios/09_Clammie_The_Healer.cfg:340
@@ -414,7 +414,7 @@ msgstr ""
 #. [unit]: type=Goblin Spearman, id=Terro
 #. [else]: id=Terro, id=Terro facing se}, id=Lavinia Nightgaunt}, id=Lavinia moves 8}
 #: Swamplings/scenarios/01_Shining.cfg:205
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1901
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1889
 msgid "Terro"
 msgstr ""
 
@@ -449,12 +449,12 @@ msgstr ""
 #. [side]: id=Eeep, type=Goblin Impaler Sw
 #. [unit]: id=Eeep, type=Wolf Rider Sw
 #. [event]: (id=Clammie) facing nw}, id=Eeep, type=Goblin Impaler Sw, (id=Eeep) facing se}
-#: Swamplings/scenarios/01_Shining.cfg:398
+#: Swamplings/scenarios/01_Shining.cfg:397
 #: Swamplings/scenarios/08_Ride_The_Wolf.cfg:65
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:123
 #: Swamplings/scenarios/06_Rogues_Reward.cfg:171
 #: Swamplings/scenarios/11_Thunderstruck.cfg:23
-#: Swamplings/scenarios/14_Dire_Cave.cfg:644
+#: Swamplings/scenarios/14_Dire_Cave.cfg:642
 #: Swamplings/scenarios/03_Exodus.cfg:112
 #: Swamplings/scenarios/04_At_Deaths_Door.cfg:75
 #: Swamplings/scenarios/16_Full_Circle.cfg:365
@@ -464,97 +464,97 @@ msgid "Eeep"
 msgstr ""
 
 #. [unit]: id=Howler, type=Swamp Wolf
-#: Swamplings/scenarios/01_Shining.cfg:417
+#: Swamplings/scenarios/01_Shining.cfg:416
 msgid "Howler"
 msgstr ""
 
 #. [unit]: id=Lupi, type=Swamp Wolf
-#: Swamplings/scenarios/01_Shining.cfg:434
-#: Swamplings/scenarios/01_Shining.cfg:446
+#: Swamplings/scenarios/01_Shining.cfg:433
+#: Swamplings/scenarios/01_Shining.cfg:445
 msgid "Lupi"
 msgstr ""
 
 #. [unit]: id=Scraps, type=Swamp Wolf
-#: Swamplings/scenarios/01_Shining.cfg:458
+#: Swamplings/scenarios/01_Shining.cfg:457
 msgid "Scraps"
 msgstr ""
 
 #. [message]: speaker=Clammie
 #. [message]: speaker=Eeep
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/01_Shining.cfg:472
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2582
+#: Swamplings/scenarios/01_Shining.cfg:471
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2567
 #: Swamplings/scenarios/03_Exodus.cfg:213
 #: Swamplings/scenarios/09_Clammie_The_Healer.cfg:513
 msgid "Eeep!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/01_Shining.cfg:476
+#: Swamplings/scenarios/01_Shining.cfg:475
 #: Swamplings/scenarios/03_Exodus.cfg:197
-#: Swamplings/scenarios/03_Exodus.cfg:459
+#: Swamplings/scenarios/03_Exodus.cfg:456
 msgid "What?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/01_Shining.cfg:480
+#: Swamplings/scenarios/01_Shining.cfg:479
 msgid "I told you, stop feeding those wolves."
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/01_Shining.cfg:484
+#: Swamplings/scenarios/01_Shining.cfg:483
 msgid "But they're so pretty!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/01_Shining.cfg:488
+#: Swamplings/scenarios/01_Shining.cfg:487
 msgid "Come on, we have a battle to fight!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/01_Shining.cfg:493
+#: Swamplings/scenarios/01_Shining.cfg:492
 msgid ""
 "Get to dry land! Make them fight us from the swamp! And stay in formation -- "
 "shoulder to shoulder! We'll lose some spearmen, but they can't defeat us all!"
 msgstr ""
 
 #. [objectives]
-#: Swamplings/scenarios/01_Shining.cfg:502
-#: Swamplings/scenarios/01_Shining.cfg:529
-#: Swamplings/scenarios/01_Shining.cfg:607
-#: Swamplings/scenarios/01_Shining.cfg:634
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:620
+#: Swamplings/scenarios/01_Shining.cfg:501
+#: Swamplings/scenarios/01_Shining.cfg:528
+#: Swamplings/scenarios/01_Shining.cfg:606
+#: Swamplings/scenarios/01_Shining.cfg:633
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:621
 #: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:815
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:825
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1229
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:430
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1005
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1907
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2232
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1664
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2472
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2858
-#: Swamplings/scenarios/16_Full_Circle.cfg:1124
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:824
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1231
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:429
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1004
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1905
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2229
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1655
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2458
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2843
+#: Swamplings/scenarios/16_Full_Circle.cfg:1123
 msgid "New Objectives:"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Swamplings/scenarios/01_Shining.cfg:513
-#: Swamplings/scenarios/01_Shining.cfg:540
-#: Swamplings/scenarios/01_Shining.cfg:618
+#: Swamplings/scenarios/01_Shining.cfg:512
+#: Swamplings/scenarios/01_Shining.cfg:539
+#: Swamplings/scenarios/01_Shining.cfg:617
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:557
 #: Swamplings/scenarios/06_Rogues_Reward.cfg:342
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:441
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:440
 #: Swamplings/scenarios/11_Thunderstruck.cfg:619
 #: Swamplings/scenarios/11_Thunderstruck.cfg:642
 #: Swamplings/scenarios/11_Thunderstruck.cfg:665
-#: Swamplings/scenarios/14_Dire_Cave.cfg:731
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1683
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2491
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2873
+#: Swamplings/scenarios/14_Dire_Cave.cfg:729
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1674
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2477
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2858
 #: Swamplings/scenarios/03_Exodus.cfg:263
-#: Swamplings/scenarios/16_Full_Circle.cfg:604
-#: Swamplings/scenarios/16_Full_Circle.cfg:1134
+#: Swamplings/scenarios/16_Full_Circle.cfg:603
+#: Swamplings/scenarios/16_Full_Circle.cfg:1133
 #: Swamplings/scenarios/09_Clammie_The_Healer.cfg:539
 #: Swamplings/scenarios/15_Hammerheads.cfg:370
 #: Swamplings/scenarios/15_Hammerheads.cfg:397
@@ -562,11 +562,11 @@ msgid "Death of Eeep"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Swamplings/scenarios/01_Shining.cfg:517
-#: Swamplings/scenarios/01_Shining.cfg:622
-#: Swamplings/scenarios/01_Shining.cfg:645
+#: Swamplings/scenarios/01_Shining.cfg:516
+#: Swamplings/scenarios/01_Shining.cfg:621
+#: Swamplings/scenarios/01_Shining.cfg:644
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:561
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:449
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:448
 #: Swamplings/scenarios/11_Thunderstruck.cfg:623
 #: Swamplings/scenarios/11_Thunderstruck.cfg:646
 #: Swamplings/scenarios/11_Thunderstruck.cfg:669
@@ -575,7 +575,7 @@ msgid "Death of Misris"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/01_Shining.cfg:563
+#: Swamplings/scenarios/01_Shining.cfg:562
 msgid "Oh! I didn’t see you, Misris."
 msgstr ""
 
@@ -583,7 +583,7 @@ msgstr ""
 #. [unit]: id=Misris, type=Goblin Moonbeam
 #. [side]: id=Misris, type=Wolf Rider Sw
 #. [else]: id=Misris
-#: Swamplings/scenarios/01_Shining.cfg:571
+#: Swamplings/scenarios/01_Shining.cfg:570
 #: Swamplings/scenarios/08_Ride_The_Wolf.cfg:115
 #: Swamplings/scenarios/11_Thunderstruck.cfg:85
 #: Swamplings/scenarios/03_Exodus.cfg:139
@@ -591,116 +591,116 @@ msgid "Misris"
 msgstr ""
 
 #. [message]: speaker=Misris
-#: Swamplings/scenarios/01_Shining.cfg:587
+#: Swamplings/scenarios/01_Shining.cfg:586
 msgid "That is the idea."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/01_Shining.cfg:592
+#: Swamplings/scenarios/01_Shining.cfg:591
 msgid ""
 "I don’t like it when females are on the battlefield. This is not our way!"
 msgstr ""
 
 #. [message]: speaker=Misris
-#: Swamplings/scenarios/01_Shining.cfg:597
+#: Swamplings/scenarios/01_Shining.cfg:596
 msgid ""
 "If it doesn’t keep us alive, our way is useless. I saw what happened to "
 "Terro. I will not stand apart."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/01_Shining.cfg:662
+#: Swamplings/scenarios/01_Shining.cfg:661
 msgid "We must advance, or that knight will continue to recruit new forces!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/01_Shining.cfg:676
+#: Swamplings/scenarios/01_Shining.cfg:675
 msgid ""
 "<i>Spears in the morning, goblins in mourning -- Spears in the night, "
 "goblins delight!</i>"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/01_Shining.cfg:696
+#: Swamplings/scenarios/01_Shining.cfg:695
 msgid "Ugh! You're right, they're red inside!"
 msgstr ""
 
 #. [message]: role=someone
-#: Swamplings/scenarios/01_Shining.cfg:707
+#: Swamplings/scenarios/01_Shining.cfg:706
 msgid "Disgusting!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/01_Shining.cfg:713
+#: Swamplings/scenarios/01_Shining.cfg:712
 msgid "Grrrrrrrrrr"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/01_Shining.cfg:728
+#: Swamplings/scenarios/01_Shining.cfg:727
 msgid "Easiest kill I ever made."
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/01_Shining.cfg:760
+#: Swamplings/scenarios/01_Shining.cfg:759
 msgid ""
 "Incredible! Those little swamplings killed my last horseman! I'll send out "
 "the woodsmen, they'll do better in this godforsaken marshland."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/01_Shining.cfg:809
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:655
+#: Swamplings/scenarios/01_Shining.cfg:808
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:654
 msgid "I was certain we'd have defeated them by now!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/01_Shining.cfg:826
+#: Swamplings/scenarios/01_Shining.cfg:825
 msgid "And so it ends ..."
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/01_Shining.cfg:830
+#: Swamplings/scenarios/01_Shining.cfg:829
 msgid "Spare us your soliloquy!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/01_Shining.cfg:848
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1269
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:610
-#: Swamplings/scenarios/03_Exodus.cfg:562
+#: Swamplings/scenarios/01_Shining.cfg:847
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1270
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:609
+#: Swamplings/scenarios/03_Exodus.cfg:559
 msgid "But there is so much more--"
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/01_Shining.cfg:864
+#: Swamplings/scenarios/01_Shining.cfg:863
 msgid ""
 "Your people fight much better than I anticipated! I'd best make my retreat "
 "now!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/01_Shining.cfg:888
+#: Swamplings/scenarios/01_Shining.cfg:887
 msgid ""
 "I never should have mentioned our healer to that human. Eeep, please bury my "
 "son next to his mother's grave. I must go visit Ronry immediately!"
 msgstr ""
 
 #. [message]: speaker=Misris
-#: Swamplings/scenarios/01_Shining.cfg:908
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:523
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1008
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1211
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3134
-#: Swamplings/scenarios/03_Exodus.cfg:598
-#: Swamplings/scenarios/16_Full_Circle.cfg:1361
+#: Swamplings/scenarios/01_Shining.cfg:907
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:522
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1006
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1203
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3117
+#: Swamplings/scenarios/03_Exodus.cfg:595
+#: Swamplings/scenarios/16_Full_Circle.cfg:1358
 #: Swamplings/scenarios/15_Hammerheads.cfg:579
 msgid "Eeep, my love! Please find the courage to continue without me."
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/01_Shining.cfg:912
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1215
-#: Swamplings/scenarios/03_Exodus.cfg:602
+#: Swamplings/scenarios/01_Shining.cfg:911
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1207
+#: Swamplings/scenarios/03_Exodus.cfg:599
 msgid "What you ask is impossible, dear Misris."
 msgstr ""
 
@@ -723,7 +723,7 @@ msgstr ""
 #. [side]
 #. [unit]: type=Assassin, id=Rashki
 #: Swamplings/scenarios/02_Healer_And_Slayer.cfg:56
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:670
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:669
 msgid "Rashki"
 msgstr ""
 
@@ -833,8 +833,8 @@ msgstr ""
 
 #. [unstore_unit]
 #: Swamplings/scenarios/02_Healer_And_Slayer.cfg:247
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:907
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1142
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:906
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1141
 #: Swamplings/scenarios/06_Rogues_Reward.cfg:255
 msgid "4"
 msgstr ""
@@ -888,7 +888,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: Swamplings/scenarios/02_Healer_And_Slayer.cfg:331
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:836
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:835
 msgid "Death of Ronry"
 msgstr ""
 
@@ -964,36 +964,36 @@ msgid "Ronry gives you a healing potion."
 msgstr ""
 
 #. [message]: speaker=Rashki
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:731
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:730
 msgid "Are you the one they call Ronry?"
 msgstr ""
 
 #. [message]: speaker=Ronry
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:735
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:734
 msgid "Who is it that asks?"
 msgstr ""
 
 #. [message]: speaker=Rashki
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:739
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:738
 msgid ""
 "My name is Rashki. I understand you have a powerful toxin for sale. The drop "
 "of death."
 msgstr ""
 
 #. [message]: speaker=Ronry
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:743
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:742
 msgid ""
 "No, it's not for sale. The poison I discovered shall only be used for good "
 "purposes, not evil."
 msgstr ""
 
 #. [message]: speaker=Rashki
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:747
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:746
 msgid "But I only wish to kill evil creatures!"
 msgstr ""
 
 #. [message]: speaker=Ronry
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:751
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:750
 msgid ""
 "The drop of death shall not be bought and sold like a market trinket! If I "
 "sold it for ten gold pieces, what would stop you from selling to another for "
@@ -1002,34 +1002,34 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Rashki
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:755
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:754
 msgid "If you will not accept my gold, you will take my blades."
 msgstr ""
 
 #. [message]: speaker=Ronry
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:821
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:820
 msgid ""
 "Paralyzing poison! Clammie, quickly go to the shed and unlock the cabinet .. "
 "I need the green bottle immediately!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:828
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:827
 msgid "Get antidote for Ronry before he dies"
 msgstr ""
 
 #. [objectives]
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:843
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:842
 msgid "Search the nearby area. WARNING: Ronry can be killed by this poison! "
 msgstr ""
 
 #. [unstore_unit]
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:898
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:897
 msgid "6"
 msgstr ""
 
 #. [unstore_unit]
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:916
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:915
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:213
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:286
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:379
@@ -1037,167 +1037,167 @@ msgid "2"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:956
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:955
 msgid "I wonder if this is it."
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:959
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:958
 msgid "Cabinet"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:962
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:961
 msgid "A locked cabinet."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:967
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:966
 msgid "But where is the key?"
 msgstr ""
 
 #. [message]: speaker=Ronry
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:971
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:970
 msgid "Hurry, Clammie!"
 msgstr ""
 
 #. [message]: speaker=Ronry
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:983
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:982
 msgid "The green bottle! Hurry!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:988
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:987
 msgid "With little time left, you break open the cabinet."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1006
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1005
 msgid "Which potion do you pick?"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1008
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1011
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1015
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1007
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1010
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1014
 msgid "&items/potion-grey.png=This?"
 msgstr ""
 
 #. [message]: speaker=Ronry
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1020
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1019
 msgid "I've forgotten, goblins can't see colors! This is surely the end!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1024
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1023
 msgid ""
 "One smells of duckweed, the next of cattail and bromeliad. The third of "
 "milkweed."
 msgstr ""
 
 #. [message]: speaker=Ronry
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1028
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1027
 msgid "Yes, the milkweed! Quickly!"
 msgstr ""
 
 #. [effect]
 #. [object]
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1036
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1046
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1035
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1045
 #: Swamplings/scenarios/09_Clammie_The_Healer.cfg:247
 #: Swamplings/scenarios/09_Clammie_The_Healer.cfg:257
 msgid "Healer Ointment"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1039
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1038
 msgid ""
 "This ointment has amazing curative powers! Uncorking the bottle is "
 "unnecessary. It even heals nearby allies."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1053
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1052
 msgid ""
 "I feel great power radiating from this bottle! Ronry, what on earth is this "
 "made from?"
 msgstr ""
 
 #. [message]: speaker=Rashki
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1074
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1073
 msgid ""
 "Very wise, little goblin. You almost saved his life. Is that the death drop "
 "in your hands?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1082
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1081
 msgid ""
 "You have killed the only one who can answer your questions, wise Rashki."
 msgstr ""
 
 #. [message]: speaker=Rashki
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1090
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1089
 msgid "Then let us experiment."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1095
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1094
 msgid "Rashki dips his dagger in the bottle and then slashes you!"
 msgstr ""
 
 #. [message]: speaker=Rashki
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1155
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1154
 msgid ""
 "You're not dead, therefore it's not what I'm after. Where did you find this "
 "bottle?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1163
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1162
 msgid "In the box over here."
 msgstr ""
 
 #. [message]: speaker=Rashki
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1210
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1212
 msgid "!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1232
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1234
 msgid "Defeat Rashki"
 msgstr ""
 
 #. [message]: speaker=Ronry
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1257
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1258
 msgid "There's one with teeth!"
 msgstr ""
 
 #. [message]: speaker=Ronry
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1283
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:791
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1284
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:789
 msgid "Ah! What an absurd way to die!"
 msgstr ""
 
 #. [message]: speaker=Clammie
 #. [message]: speaker=Clammie_assassin
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1295
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2759
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2763
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:803
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1296
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2752
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2756
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:801
 msgid "Out of time!"
 msgstr ""
 
 #. [message]: speaker=Rashki
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1309
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1310
 msgid ""
 "Undone by a lowly swamp goblin and his pet bats! I never laid eyes on the "
 "damned death drops, but I am surely their first victim!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1313
+#: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1314
 msgid "You miscount, wise slayer."
 msgstr ""
 
@@ -1252,8 +1252,8 @@ msgstr ""
 #. [message]: speaker=Clammie
 #. [message]: speaker=Eeep
 #: Swamplings/scenarios/03_Exodus.cfg:193
-#: Swamplings/scenarios/03_Exodus.cfg:455
-#: Swamplings/scenarios/16_Full_Circle.cfg:1235
+#: Swamplings/scenarios/03_Exodus.cfg:452
+#: Swamplings/scenarios/16_Full_Circle.cfg:1233
 msgid "Eeep?"
 msgstr ""
 
@@ -1330,112 +1330,112 @@ msgid "Move Clammie to the signpost in the south"
 msgstr ""
 
 #. [event]: id=Frizzle, (id=Clammie) facing sw}, (id=Eeep) facing sw}, (id=Misris) facing sw}
-#: Swamplings/scenarios/03_Exodus.cfg:329
+#: Swamplings/scenarios/03_Exodus.cfg:328
 msgid "Frizzle"
 msgstr ""
 
 #. [message]: speaker=Frizzle
-#: Swamplings/scenarios/03_Exodus.cfg:354
+#: Swamplings/scenarios/03_Exodus.cfg:353
 msgid "Look! Slaves!"
 msgstr ""
 
 #. [message]: speaker=Sklizle
-#: Swamplings/scenarios/03_Exodus.cfg:359
+#: Swamplings/scenarios/03_Exodus.cfg:358
 msgid "Goblins! We are very hungry! Feed us now!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/03_Exodus.cfg:364
+#: Swamplings/scenarios/03_Exodus.cfg:363
 msgid "Shove off, skinks!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/03_Exodus.cfg:369
+#: Swamplings/scenarios/03_Exodus.cfg:368
 msgid "What brings you to this part of the bog?"
 msgstr ""
 
 #. [message]: speaker=Frizzle
-#: Swamplings/scenarios/03_Exodus.cfg:374
+#: Swamplings/scenarios/03_Exodus.cfg:373
 msgid "A great army! Marching, marching! Surely Xaffrasz will fall!"
 msgstr ""
 
 #. [message]: speaker=Sklizle
-#: Swamplings/scenarios/03_Exodus.cfg:379
+#: Swamplings/scenarios/03_Exodus.cfg:378
 msgid "Silence, Frizzle! Chin up, mouth shut!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/03_Exodus.cfg:384
+#: Swamplings/scenarios/03_Exodus.cfg:383
 msgid ""
 "You may find things to hunt in the north. You'll also find humans, so be "
 "careful."
 msgstr ""
 
 #. [message]: speaker=Sklizle
-#: Swamplings/scenarios/03_Exodus.cfg:389
+#: Swamplings/scenarios/03_Exodus.cfg:388
 msgid ""
 "That is not enough. We are hungry now! We shall have food from you, one way "
 "or the other!"
 msgstr ""
 
 #. [message]: speaker=Misris
-#: Swamplings/scenarios/03_Exodus.cfg:394
+#: Swamplings/scenarios/03_Exodus.cfg:393
 msgid ""
 "Clammie, we ought to give them something for their young. I will give my "
 "rations."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/03_Exodus.cfg:399
+#: Swamplings/scenarios/03_Exodus.cfg:398
 msgid "For your children, we will leave some fish."
 msgstr ""
 
 #. [message]: speaker=Sklizle
-#: Swamplings/scenarios/03_Exodus.cfg:404
+#: Swamplings/scenarios/03_Exodus.cfg:403
 msgid ""
 "Fool! How can our children live if their parents die? Surrender now, or "
 "fight for your lives!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/03_Exodus.cfg:436
+#: Swamplings/scenarios/03_Exodus.cfg:434
 msgid "Stay alert! Some creatures here find goblin flesh tasty!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/03_Exodus.cfg:463
+#: Swamplings/scenarios/03_Exodus.cfg:460
 msgid "Where is the green bottle?"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/03_Exodus.cfg:467
+#: Swamplings/scenarios/03_Exodus.cfg:464
 msgid "What is green?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/03_Exodus.cfg:471
+#: Swamplings/scenarios/03_Exodus.cfg:468
 msgid "Ronry's healing potion! I can't believe I left it behind!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/03_Exodus.cfg:491
+#: Swamplings/scenarios/03_Exodus.cfg:488
 msgid "Leave the injured behind! Fresh troops to the front!"
 msgstr ""
 
 #. [message]: speaker=second_unit
 #. [message]: role=somebody
-#: Swamplings/scenarios/03_Exodus.cfg:515
-#: Swamplings/scenarios/03_Exodus.cfg:528
+#: Swamplings/scenarios/03_Exodus.cfg:512
+#: Swamplings/scenarios/03_Exodus.cfg:525
 msgid "Watch out! Those skinks are fierce!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Swamplings/scenarios/03_Exodus.cfg:534
+#: Swamplings/scenarios/03_Exodus.cfg:531
 msgid "Slaves without masters. What a sickening sight!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/03_Exodus.cfg:549
+#: Swamplings/scenarios/03_Exodus.cfg:546
 msgid ""
 "<i>Hey yippey yoho yoho! It's time to kill my foe! Here's a spear in the "
 "belly, a spear in the eye -- And a spear where the others would never dare "
@@ -1443,41 +1443,41 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:542
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1042
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:593
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3153
-#: Swamplings/scenarios/03_Exodus.cfg:580
-#: Swamplings/scenarios/16_Full_Circle.cfg:1327
-#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:782
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:541
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1040
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:592
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3136
+#: Swamplings/scenarios/03_Exodus.cfg:577
+#: Swamplings/scenarios/16_Full_Circle.cfg:1324
+#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:781
 #: Swamplings/scenarios/15_Hammerheads.cfg:598
 msgid "Truly, we cannot continue without Eeep!"
 msgstr ""
 
 #. [message]: speaker=Frizzle
-#: Swamplings/scenarios/03_Exodus.cfg:618
+#: Swamplings/scenarios/03_Exodus.cfg:615
 msgid "I die with no shame. I only wished to feed my young."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/03_Exodus.cfg:627
+#: Swamplings/scenarios/03_Exodus.cfg:624
 msgid "Out of time! Our tribe is beyond hope."
 msgstr ""
 
 #. [message]: speaker=Sklizle
-#: Swamplings/scenarios/03_Exodus.cfg:642
+#: Swamplings/scenarios/03_Exodus.cfg:639
 msgid "<i>SsssSsss!</i>"
 msgstr ""
 
 #. [message]: role=newleader
-#: Swamplings/scenarios/03_Exodus.cfg:674
+#: Swamplings/scenarios/03_Exodus.cfg:671
 msgid ""
 "Enough! We cannot lose any more lives in this foolish battle! Destroy the "
 "keep! Retreat to the north, or the civilians will be unprotected!"
 msgstr ""
 
 #. [message]: role=newleader
-#: Swamplings/scenarios/03_Exodus.cfg:690
+#: Swamplings/scenarios/03_Exodus.cfg:687
 msgid ""
 "Enough! We cannot lose any more lives in this foolish battle! Destroy the "
 "keep! Retreat north, and keep the civilians protected!"
@@ -1562,59 +1562,59 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:316
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:315
 msgid "Milkweed grows here. I wonder if eating some of its fruit would help?"
 msgstr ""
 
 #. [unstore_unit]
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:336
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:335
 msgid "1"
 msgstr ""
 
 #. [unit_type]: id=Mosquito, race=monster
 #. [unit]: type=Mosquito
 #: Swamplings/units/Mosquito.cfg:4
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:364
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:470
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:480
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:491
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:363
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:468
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:478
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:489
 msgid "Mosquito"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:372
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:371
 msgid "Buzzblood!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:400
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:399
 msgid ""
 "There seems to be more milkweed I could gather ... but probably more "
 "buzzbloods here as well."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:405
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:404
 msgid "What would you like to do?"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:407
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:406
 msgid "Gather milkweed"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:415
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:414
 msgid "Don't risk it"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:429
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:427
 msgid "You find and eat $random milkweed fruit!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:524
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:522
 msgid ""
 "The potion! Where is the potion? Nothing here but some rags left behind by "
 "my tribe … I'm so weak I think I'd die from another insect bite! Maybe if I "
@@ -1622,74 +1622,74 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie_assassin
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:581
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:579
 msgid "Eh? What's that sound?"
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:635
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:633
 msgid "There you are! It's been a long time, my young friend."
 msgstr ""
 
 #. [message]: speaker=Clammie_assassin
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:642
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:640
 msgid "It has? I mean, yes, of course."
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:646
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:644
 msgid ""
 "I bear sad tidings of Lord Cornwell. He suddenly took ill and passed away."
 msgstr ""
 
 #. [message]: speaker=Clammie_assassin
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:650
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:648
 msgid "How tragic."
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:654
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:652
 msgid ""
 "I fear the same malady may affect the Archduke Kennison. Your fee, in "
 "advance."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:661
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:659
 msgid "You receive 100 gold!"
 msgstr ""
 
 #. [message]: speaker=Clammie_assassin
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:670
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:668
 msgid "Oh, I see, you think I'm--"
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:674
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:672
 msgid ""
 "Is there a problem? I'll double your fee if necessary. I know it will be a "
 "dangerous mission but the deed must be done."
 msgstr ""
 
 #. [message]: speaker=Clammie_assassin
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:678
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:676
 msgid "Of course. But first I must rest a few nights, in a village--"
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:682
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:680
 msgid "You may rest on the ship, Rashki. This job can wait no longer!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:765
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:763
 msgid ""
 "Poisoned! And nowhere to heal. Must press on to the home patch, there are "
 "some villages nearby ..."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/04_At_Deaths_Door.cfg:779
+#: Swamplings/scenarios/04_At_Deaths_Door.cfg:777
 msgid ""
 "A great victory is measured not by the strength of one's foe, but by one's "
 "own weakness."
@@ -1732,8 +1732,8 @@ msgstr ""
 #. [modify_side]
 #. [side]: type=South Guard Captain, id=Phillips
 #. [side]: type=Master at Arms, id=Archduke
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:79
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:660
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:83
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:661
 #: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:60
 #: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:116
 #: Swamplings/scenarios/10_Skandix.cfg:53
@@ -1749,10 +1749,10 @@ msgstr ""
 #. [event]: id=Archduke
 #. [side]: type=Master at Arms, id=Archduke
 #. [unit]: type=Master at Arms, id=Archduke
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:81
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1073
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:85
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1071
 #: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:113
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2610
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2603
 #: Swamplings/scenarios/16_Full_Circle.cfg:62
 #: Swamplings/scenarios/10_Skandix.cfg:51
 msgid "Archduke"
@@ -1776,18 +1776,18 @@ msgstr ""
 #. [message]: speaker=Sydd
 #. [message]: speaker=Yryrcyn
 #: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:314
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:979
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2868
-#: Swamplings/scenarios/16_Full_Circle.cfg:882
-#: Swamplings/scenarios/16_Full_Circle.cfg:913
-#: Swamplings/scenarios/16_Full_Circle.cfg:1468
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:978
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2861
+#: Swamplings/scenarios/16_Full_Circle.cfg:881
+#: Swamplings/scenarios/16_Full_Circle.cfg:912
+#: Swamplings/scenarios/16_Full_Circle.cfg:1465
 msgid "<i>mutters</i>"
 msgstr ""
 
 #. [message]: speaker=Phillips
 #. [message]: speaker=Archduke
 #: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:319
-#: Swamplings/scenarios/16_Full_Circle.cfg:889
+#: Swamplings/scenarios/16_Full_Circle.cfg:888
 msgid "What's that, Sydd?"
 msgstr ""
 
@@ -1816,7 +1816,7 @@ msgstr ""
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:96
 #: Swamplings/scenarios/06_Rogues_Reward.cfg:135
 #: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:409
-#: Swamplings/scenarios/14_Dire_Cave.cfg:587
+#: Swamplings/scenarios/14_Dire_Cave.cfg:585
 #: Swamplings/scenarios/16_Full_Circle.cfg:323
 #: Swamplings/scenarios/09_Clammie_The_Healer.cfg:155
 #: Swamplings/scenarios/15_Hammerheads.cfg:166
@@ -1839,24 +1839,24 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie_assassin
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:489
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:488
 msgid "Speak not! I know who you are and your fate is in my hands."
+msgstr ""
+
+#. [message]
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:491
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:500
+msgid "Quintain"
 msgstr ""
 
 #. [message]
 #: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:492
 #: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:501
-msgid "Quintain"
-msgstr ""
-
-#. [message]
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:493
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:502
 msgid "--"
 msgstr ""
 
 #. [message]: speaker=Clammie_assassin
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:498
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:497
 msgid ""
 "No doubt you are frightened by my visage, but I am not as I appear. I was "
 "sent here by the human who killed my son. He has escaped my wrath for the "
@@ -1865,7 +1865,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie_assassin
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:507
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:506
 msgid ""
 "Judging by your complete lack of speech or movement, coupled by the fact "
 "that you smell strongly of sawdust, I deduce that further conversation with "
@@ -1874,112 +1874,112 @@ msgstr ""
 
 #. [message]: speaker=Kennison
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:555
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2605
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:554
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2590
 msgid "Who are you?"
 msgstr ""
 
 #. [message]: speaker=Clammie_assassin
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:559
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:558
 msgid "My name is irrelevant. I have come to warn you--"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:563
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:562
 msgid "Of the Westford Irrelevants? A fine family, that!"
 msgstr ""
 
 #. [message]: speaker=Clammie_assassin
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:567
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:566
 msgid "You're very kind, Duke."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:571
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:570
 msgid "<i>Arch</i> duke!"
 msgstr ""
 
 #. [message]: speaker=Clammie_assassin
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:575
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:574
 msgid "Sir, I want to warn you that the shining knight wants you assassinated!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:579
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:578
 msgid "Assassinated? There hasn't been skullduggery like that for generations!"
 msgstr ""
 
 #. [message]: speaker=Clammie_assassin
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:583
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:582
 msgid "Not so! Shining had that other guy snuffed too! Lord Prawnball."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:587
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:586
 msgid "Lord Cornwell? My dear chap, Cornwell died of a fever."
 msgstr ""
 
 #. [message]: speaker=Clammie_assassin
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:591
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:590
 msgid "A fever brought on by poison!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:595
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:594
 msgid "How am I to believe you? Remove that mask and let me see your face!"
 msgstr ""
 
 #. [message]: speaker=Clammie_assassin
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:599
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:598
 msgid "As you wish."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:651
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:650
 msgid "My word! You're a dwarf!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:655
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:654
 msgid "A swamp goblin in fact, but that does not matter."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:659
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:658
 msgid "How dare you impersonate one of the fine family of Irrelevant?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:663
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:662
 msgid "You idiot, I was impersonating your assassin!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:667
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:666
 msgid ""
 "Well sir, I may be an idiot, but for an assassin you've done an execrable "
 "job!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:671
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:670
 msgid "Perhaps I am not making myself clear--"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:675
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:674
 msgid ""
 "Perhaps nothing! You've botched this job from the start! Now either you must "
 "kill me immediately, or I shall call for my guards and they shall kill you!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:679
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:678
 msgid "I'm beginning to wonder … are you really the Archduke?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:683
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:682
 msgid ""
 "All right, I suppose the intrigue has become a bit convoluted. The Archduke "
 "and I had a little wager. He suspected an assassin would be sent here. I "
@@ -1989,51 +1989,51 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:687
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:686
 msgid ""
 "So he believes in the basic dishonesty and ruthlessness of his fellow man."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:691
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:690
 msgid "Quite bright for a swamp goblin."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:695
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:694
 msgid "So we are both impostors?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:699
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:698
 msgid ""
 "The only difference is, I aspire to impersonate above my station and you "
 "stoop to impersonate beneath yours."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:703
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:702
 msgid "If you're not Kennison, what's your real name?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:707
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:706
 msgid ""
 "Kennison. I'm the Archduke's uncle, and in his mind, totally expendable."
 msgstr ""
 
 #. [message]: speaker=Phillips
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:738
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:737
 msgid "Excuse me, the men and I have been wondering what's taking so long?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:742
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:741
 msgid "Please be patient … my assassin and I are nearing an agreement."
 msgstr ""
 
 #. [message]: speaker=Phillips
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:746
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:745
 msgid ""
 "Well, we need at least one dead body in here if we're to spread the rumor of "
 "the Archduke's assassination. So which of you will take the job? Ye gods! "
@@ -2041,83 +2041,83 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:750
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:749
 msgid "You really must study your bestiary, Phillips!"
 msgstr ""
 
 #. [message]: speaker=Phillips
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:754
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:753
 msgid "We can't pass a troll corpse off as the Archduke!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:758
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:757
 msgid ""
 "Why are you looking at me that way, Phillips? Do you think I will not defend "
 "myself?"
 msgstr ""
 
 #. [unstore_unit]
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1118
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:837
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1115
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:836
 msgid "10"
 msgstr ""
 
 #. [message]: speaker=Phillips
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:855
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:854
 msgid "Miscreant! I've been meaning to patch it there!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:859
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:858
 msgid "Poor form, Phillips!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:895
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:894
 msgid ""
 "Methinks you've been skipping your practice time with friend quintain, "
 "Phillips!"
 msgstr ""
 
 #. [message]: speaker=Phillips
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:899
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:898
 msgid "INTRUDERS!"
 msgstr ""
 
 #. [message]: speaker=Phillips
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:975
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:974
 msgid "Sydd! Close the drawbridge!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:997
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:996
 msgid "Kennison? Is there a back door to this cottage?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1001
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1000
 msgid ""
 "Not exactly ... but let me take you on a tour of the grounds. We'll begin "
 "with the path to our south."
 msgstr ""
 
 #. [objective]: condition=win
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1008
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1007
 msgid "Escape"
 msgstr ""
 
 #. [objective]: condition=lose
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:565
 #: Swamplings/scenarios/06_Rogues_Reward.cfg:346
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:445
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1016
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1918
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2243
-#: Swamplings/scenarios/14_Dire_Cave.cfg:727
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1679
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2487
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2869
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:444
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1015
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1916
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2240
+#: Swamplings/scenarios/14_Dire_Cave.cfg:725
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1670
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2473
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2854
 #: Swamplings/scenarios/09_Clammie_The_Healer.cfg:543
 #: Swamplings/scenarios/15_Hammerheads.cfg:366
 #: Swamplings/scenarios/15_Hammerheads.cfg:393
@@ -2125,168 +2125,168 @@ msgid "Death of Kennison"
 msgstr ""
 
 #. [objectives]
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1019
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1018
 msgid "Hint: You're seriously outnumbered! Run!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1069
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1068
 msgid "Locked!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1073
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1072
 msgid ""
 "That merely leads to the drainage system. The Archduke's plumbing is the "
 "talk of the town."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1077
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1076
 msgid "I was hoping to find a spot that might be a bit less hazardous."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1081
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1080
 msgid ""
 "Ah well, let's adjourn to the main hall, I do all my best thinking there."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1085
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1084
 msgid "Fine. How do we get past all the humans trying to kill us?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1089
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1088
 msgid "By means of the torch, of course."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1140
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1139
 msgid "Our tour continues. After you, if you please."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1221
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1220
 msgid "What's this? A pond in the main hall?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1228
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1227
 msgid ""
 "The roofing shingles shall be imported from a great craftsman in the far "
 "east. These things take time."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1235
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1234
 msgid "They’re right behind us! What are you doing with that rope?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1239
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1238
 msgid "Attaching it to this arrow, so I can aim it up at that large beam."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1248
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1247
 msgid ""
 "An impressive trick, but somewhat tangential to our immediate predicament."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1252
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1251
 msgid "My friend, one goblin’s tangent is another man’s axis."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1298
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1297
 msgid "Your turn! Hurry!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1351
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1350
 msgid "Like this?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1355
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1354
 msgid "No! You've got it completely wrong! You must--"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1425
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1424
 msgid "Yes, good show."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1444
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1443
 msgid "WAIT!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1481
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1480
 msgid ""
 "Many of the columns here are unfinished! You could get hit with a loose "
 "stone if you're not careful! Walk this way."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1517
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1516
 msgid "Quite simple, actually."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1521
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1520
 msgid "Could you please show me that again?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1552
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1551
 msgid "Please hurry! We're rather outnumbered, you know."
 msgstr ""
 
 #. [unstore_unit]
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:439
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1578
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1616
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1974
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1577
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1615
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1972
 msgid "5"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1594
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1593
 msgid "Perhaps it is a bit knotty!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1723
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1721
 msgid "Egad!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1793
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1791
 msgid "Another torch! What does this one do?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1797
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1795
 msgid "It lights the hallway."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1801
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1799
 msgid "Ohh."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1805
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1803
 msgid "And ..."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1875
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1873
 msgid ""
 "A bit underhanded of us, but these blighters don't seem satisfied with any "
 "of the corpses we've given them ... do you think they're after the family "
@@ -2294,12 +2294,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1879
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1877
 msgid "What are our chances of getting that drawbridge open?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1883
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1881
 msgid ""
 "On my life, I've never made sense of that fiddly thing. All those chains and "
 "pulleys, it's frightfully complex. We'd do better to swim the moat, although "
@@ -2307,131 +2307,131 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1887
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1885
 msgid "We'll break the lock off that trap door and escape through the drain."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1891
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1889
 msgid "This cloak could use a bit of a soak. Lead on!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1910
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:1908
 msgid "Move Clammie to the trap door"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2159
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2156
 msgid "So this is what they call plumbing. Kennison, where are you?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2170
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2167
 msgid "On your heels, brave sir!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2201
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2198
 msgid "Fascinating. I always thought there was a ladder."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2205
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2202
 msgid "Do you think they'll follow us down here?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2209
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2206
 msgid "Unlikely. I've seen their wages."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2213
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2210
 msgid "Which way to the egress?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2217
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2214
 msgid "Yearning for the bogs, my friend? The way out should be due east."
 msgstr ""
 
 #. [objective]: condition=win
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2235
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2232
 msgid "Move Clammie to the exit"
 msgstr ""
 
 #. [unit]: id=Greta, type=Bosavi
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2327
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2323
 msgid "Greta"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2367
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2363
 msgid "That unfortunate creature! It looks like she hasn't eaten in days!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2371
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2367
 msgid "What creature? All I see is a nasty old rat."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2375
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2371
 msgid "Perhaps she'd like a nibble of duckweed pods."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2388
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2384
 msgid "I will name you Greta!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2392
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2388
 msgid ""
 "It appears another ally has cast its lot with you. At this rate, we'll be an "
 "army before you arrive home."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2396
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2392
 msgid "It's no harder than training a bat."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2400
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2396
 msgid "I suppose that is so. -- What's that sound?"
 msgstr ""
 
 #. [message]: speaker=second_unit
 #. [message]: speaker=Clammie
 #. [message]: role=Um_Broks_foe
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1168
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2404
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2500
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1080
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1162
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2400
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2494
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1072
 msgid "Eh?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2408
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2404
 msgid ""
 "Probably nothing ... but it occurs to me that Greta may not be the only one "
 "of her kind down here."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2496
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2490
 msgid "What's that sound?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2504
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2498
 msgid "Probably nothing ..."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2581
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2574
 msgid ""
 "My dear swamp goblin, the days when I was welcome in Fursnatch appear to "
 "have ended. You have saved my life and I am in your debt. Is it possible we "
@@ -2439,7 +2439,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2585
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2578
 msgid ""
 "Nothing could please me more, Kennison. Perhaps you can teach some of my "
 "people to use a bow. I must warn you that goblins are not quick learners, "
@@ -2447,31 +2447,31 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2589
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2582
 msgid "That is fine. I am a very slow teacher so we should get on swimmingly."
 msgstr ""
 
 #. [unit]: type=Footpad, id=Dulonna
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2627
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2620
 msgid "Dulonna"
 msgstr ""
 
 #. [message]: speaker=Archduke
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2634
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2694
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2627
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2687
 msgid "A botch, you say?"
 msgstr ""
 
 #. [message]: speaker=Dulonna
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2638
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2631
 msgid ""
 "Your uncle escaped, and no one else could successfully impersonate your "
 "corpse, sir."
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2642
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2635
 msgid ""
 "No matter. Spread word that my uncle attempted to take my life. Put a price "
 "on his head – a thousand gold will do. I want no suspicion to fall upon "
@@ -2479,19 +2479,19 @@ msgid ""
 msgstr ""
 
 #. [unit]: type=Ruffian, id=Blinvan
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2687
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2680
 msgid "Blinvan"
 msgstr ""
 
 #. [message]: speaker=Blinvan
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2698
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2691
 msgid ""
 "Rashki and the Archduke are nowhere to be found. But the Archduke has placed "
 "a bounty on his uncle's head."
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2702
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2695
 msgid ""
 "The fool thinks his uncle is behind this. Good! Rashki has been paid well. "
 "He shall finish this job properly. But what if this uncle is found alive? He "
@@ -2500,58 +2500,58 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Blinvan
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2706
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2699
 msgid "But where would the rascal hide? No town would give him shelter."
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2710
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2703
 msgid ""
 "Indeed, the only place he can hide is Pogo Bog! I heard a healer took up "
 "residence there. I'll start my search at the healer's shack."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2781
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2774
 msgid "Perhaps I need a better strategy ..."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2796
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2789
 msgid ""
 "Clever stroke, that! Well executed, quite bold ... but most unsporting of "
 "you, old bean!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2812
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2805
 msgid ""
 "Phillips is defeated for now, but his heavy armor prevents a killing blow -- "
 "he escapes before you get another chance!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2836
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2829
 msgid ""
 "Under different conditions, I'd stand my ground and fight. ... However, the "
 "odds seem tipped against me."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2852
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2845
 msgid "Arrrrh! You pedigreed bastard!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2856
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2849
 msgid "That's an oxymoron, moron!"
 msgstr ""
 
 #. [message]: speaker=second_unit
 #. [message]: role=swimmer
-#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2873
-#: Swamplings/scenarios/16_Full_Circle.cfg:954
-#: Swamplings/scenarios/16_Full_Circle.cfg:1474
+#: Swamplings/scenarios/05_It_Takes_A_Swampling.cfg:2866
+#: Swamplings/scenarios/16_Full_Circle.cfg:953
+#: Swamplings/scenarios/16_Full_Circle.cfg:1471
 msgid "What did he say?"
 msgstr ""
 
@@ -2651,37 +2651,37 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Swamplings/scenarios/06_Rogues_Reward.cfg:334
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:433
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:432
 msgid "Defeat Cat"
 msgstr ""
 
 #. [message]: speaker=Misris
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:421
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:420
 msgid "Clammie! I spotted a Deep One near the shore!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:426
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:425
 msgid "Let's hope she prefers humans. Beware of Deep Ones, my friends!"
 msgstr ""
 
 #. [message]: speaker=Misris
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:514
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:513
 msgid "Deep One!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:525
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:524
 msgid "Jevyan's jumping jawbone!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:529
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:528
 msgid "It is said they are immortal!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:533
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:532
 msgid ""
 "They are not. Avoid her if you can, and let the humans die fighting her. But "
 "she can be killed, if you have no other choice."
@@ -2689,41 +2689,41 @@ msgstr ""
 
 #. [message]: speaker=Misris
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:691
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:627
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:626
 msgid "Ohhhh!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:558
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1026
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:557
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1024
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:724
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:643
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3169
-#: Swamplings/scenarios/16_Full_Circle.cfg:1379
-#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:815
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:642
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3152
+#: Swamplings/scenarios/16_Full_Circle.cfg:1376
+#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:814
 #: Swamplings/scenarios/15_Hammerheads.cfg:614
 msgid "Rapscallion!"
 msgstr ""
 
 #. [message]: speaker=Cat
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:670
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:669
 msgid "Listen, I'll split the bounty with your tribe. Think of all that gold!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:674
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:673
 msgid "Perhaps, but I am wary of promises from a rogue."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:684
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:683
 msgid ""
 "It was a noble act to come to my defense, Clammie. But I fear other bounty "
 "hunters will follow until I am brought to justice."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:688
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:687
 msgid ""
 "We will fortify our new home patch and train our warriors harder! Also I "
 "have a special poison if things get desperate. Let us show the humans we "
@@ -2732,17 +2732,17 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:711
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:710
 msgid "I'm not here for swampling blood. Where's Kennison?"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:727
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:726
 msgid "Arrrrrrrrrrrrrrrrrrrrh!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:731
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:730
 msgid ""
 "<i>Tho' some may think you're quite a pest, I welcome you, our treasured "
 "guest, Here's wooden shafts with heads of steel, To pierce your heart and "
@@ -2751,7 +2751,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Misris
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:743
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:742
 msgid "Nice move ... unless you were aiming."
 msgstr ""
 
@@ -2966,7 +2966,7 @@ msgstr ""
 #. [message]: speaker=Clammie
 #. [message]: speaker=Misris
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:736
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1227
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1219
 msgid "There are too many of them! We are defeated!"
 msgstr ""
 
@@ -3416,64 +3416,64 @@ msgid "Rest peacefully, kind healer!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:635
+#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:634
 msgid "Where is he?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:639
+#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:638
 msgid ""
 "If we don't stop him soon, he'll escape deeper into the cave, and we'll "
 "never find him!"
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:669
+#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:668
 msgid "I surrender!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:673
+#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:672
 msgid "We'll take him to the Archduke and finally clear my name."
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:677
+#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:676
 msgid "What's this on the ground? A brooch pin ... Rashki wore this pin."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:681
+#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:680
 msgid "Your assassin friend can kill no more, bright knight!"
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:685
+#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:684
 msgid "More than my friend. Rashki is ... was ... my son."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:757
+#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:756
 msgid "Now you see me, now you don't!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:769
+#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:768
 msgid "Terro's spirit will rest well this day!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:493
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:991
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3117
-#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:799
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:492
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:989
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3100
+#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:798
 msgid "I should have put more thought into this."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:507
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:975
-#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:838
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:506
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:973
+#: Swamplings/scenarios/09_Clammie_The_Healer.cfg:837
 #: Swamplings/scenarios/15_Hammerheads.cfg:563
 msgid "No time left! We are defeated!"
 msgstr ""
@@ -3483,9 +3483,9 @@ msgstr ""
 #. [side]: type=Saurian Augur, id=Skandix
 #. [scenario]: id=10_Skandix
 #: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:186
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:150
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:154
 #: Swamplings/scenarios/14_Dire_Cave.cfg:249
-#: Swamplings/scenarios/14_Dire_Cave.cfg:539
+#: Swamplings/scenarios/14_Dire_Cave.cfg:537
 #: Swamplings/scenarios/10_Skandix.cfg:5
 #: Swamplings/scenarios/10_Skandix.cfg:62
 #: Swamplings/scenarios/10_Skandix.cfg:65
@@ -3752,7 +3752,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:259
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:273
 #: Swamplings/scenarios/10_Skandix.cfg:416
 msgid "I CURSE YOU!"
 msgstr ""
@@ -4124,159 +4124,159 @@ msgid "Kill the blochin' saurians ere they kill ye!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/11_Thunderstruck.cfg:745
+#: Swamplings/scenarios/11_Thunderstruck.cfg:744
 msgid ""
 "Right-click on Misris and select the menu item if you want to change her "
 "into a Wolf Rider! (Note: this change is permanent.)"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/11_Thunderstruck.cfg:751
+#: Swamplings/scenarios/11_Thunderstruck.cfg:750
 msgid ""
 "Do not try to change Misris unless it's her turn! Look for the purple flag "
 "at the top of the screen."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/11_Thunderstruck.cfg:775
+#: Swamplings/scenarios/11_Thunderstruck.cfg:774
 msgid "Hey! $unit.name already has a thunderstick!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/11_Thunderstruck.cfg:809
-#: Swamplings/scenarios/11_Thunderstruck.cfg:839
+#: Swamplings/scenarios/11_Thunderstruck.cfg:806
+#: Swamplings/scenarios/11_Thunderstruck.cfg:836
 msgid "This unit cannot pick up a thunderstick!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/11_Thunderstruck.cfg:850
+#: Swamplings/scenarios/11_Thunderstruck.cfg:847
 msgid ""
 "Are you sure you want this unit to become a Thundergobo? This choice is "
 "permanent."
 msgstr ""
 
 #. [option]: speaker=narrator
-#: Swamplings/scenarios/11_Thunderstruck.cfg:853
+#: Swamplings/scenarios/11_Thunderstruck.cfg:850
 msgid "Yes!"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: Swamplings/scenarios/11_Thunderstruck.cfg:862
+#: Swamplings/scenarios/11_Thunderstruck.cfg:859
 msgid "No!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Swamplings/scenarios/11_Thunderstruck.cfg:957
+#: Swamplings/scenarios/11_Thunderstruck.cfg:951
 msgid "Eeep, it is surprising to see you are not riding one of your wolves!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/11_Thunderstruck.cfg:961
+#: Swamplings/scenarios/11_Thunderstruck.cfg:955
 msgid "I know! Maybe I should fight on wolf-back."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/11_Thunderstruck.cfg:966
+#: Swamplings/scenarios/11_Thunderstruck.cfg:960
 msgid ""
 "Right-click on Eeep and select the menu item if you want to change him into "
 "a Wolf Rider! (Note: this change is permanent.)"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/11_Thunderstruck.cfg:972
+#: Swamplings/scenarios/11_Thunderstruck.cfg:966
 msgid ""
 "Do not try to change Eeep unless it's his turn! Look for the red flag at the "
 "top of the screen."
 msgstr ""
 
 #. [message]: speaker=Zslap
-#: Swamplings/scenarios/11_Thunderstruck.cfg:986
+#: Swamplings/scenarios/11_Thunderstruck.cfg:980
 msgid "Saurians retreat!"
 msgstr ""
 
 #. [message]: speaker=Misris
-#: Swamplings/scenarios/11_Thunderstruck.cfg:999
+#: Swamplings/scenarios/11_Thunderstruck.cfg:993
 msgid ""
 "Finally, they're leaving! But why are there so many of them? Why do they "
 "keep coming?"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1003
+#: Swamplings/scenarios/11_Thunderstruck.cfg:997
 msgid "I no think they planned it this way. Who are those little guys?"
 msgstr ""
 
 #. [message]: speaker=Duldursil
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1014
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1008
 msgid "Duldursil of Dunkildorashir, at your service."
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1018
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1038
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1012
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1032
 msgid "You save many lives! I wish Clammie was here. He should be back by now."
 msgstr ""
 
 #. [message]: speaker=Augalol
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1034
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1028
 msgid "Augalol of Dunkildorashir, at your service."
 msgstr ""
 
 #. [message]: speaker=Misris
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1049
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1043
 msgid "Two very noble dwarves. Their weapons were like nothing I've ever seen."
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1053
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1047
 msgid ""
 "They saved many lives! I wish Clammie was here. He should be back by now."
 msgstr ""
 
 #. [message]: speaker=Misris
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1062
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1056
 msgid ""
 "Eeep, I think we ought to search for him! More saurians arrive here every "
 "day -- we must find out why!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1098
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1091
 msgid "A fierce slave indeed!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1102
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1095
 msgid "We not slaves! We work for all we have, and we'll fight to keep it!"
 msgstr ""
 
 #. [message]: speaker=Duldursil
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1117
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1110
 msgid "Take that, ye briny skink!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1133
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1125
 msgid "Did you see <i>that</i>?"
 msgstr ""
 
 #. [message]: speaker=Headbag
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1151
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1143
 msgid "Lunatics! Why do they come here with their elderly and children?"
 msgstr ""
 
 #. [message]: speaker=Augalol
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1166
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1158
 msgid "Blochin' flint!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1181
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1173
 msgid "Now do you realize we are your betters?"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/11_Thunderstruck.cfg:1194
+#: Swamplings/scenarios/11_Thunderstruck.cfg:1186
 msgid "I wish Clammie were here!"
 msgstr ""
 
@@ -4286,10 +4286,11 @@ msgid "Meet Mister Blydd"
 msgstr ""
 
 #. [part]
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:23
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:24
 msgid ""
 "And so, the saurian and I made our way out of the Archduke’s dungeon and "
 "into the countryside.\n"
+"\n"
 "\n"
 "It may come as a surprise to you, but I did not truly intend to let Skandix "
 "take my life in the cave of the dire wolf. I needed him to show me where "
@@ -4297,7 +4298,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:29
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:32
 msgid ""
 "I only laid eyes on a dire wolf once in my life. I was walking with my "
 "father along the bank of the river, and on the other side we saw a "
@@ -4306,6 +4307,7 @@ msgid ""
 "crept forward and using his spear, cut the wolf’s throat. It was already "
 "dying, he told me. He did it out of respect.\n"
 "\n"
+"\n"
 "My father used to call dire wolves the step-aheads because, he said, they "
 "were one step ahead of the orcish. Many times I asked him to explain this, "
 "but he refused to answer."
@@ -4313,47 +4315,47 @@ msgstr ""
 
 #. [side]: id=Francois, type=Duelist
 #. [modify_side]
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:60
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:654
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:64
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:655
 msgid "Francois' Troops"
 msgstr ""
 
 #. [side]: id=Francois, type=Duelist
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:62
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:66
 msgid "Francois"
 msgstr ""
 
 #. [side]: id=Mugwyn, type=SergeantMugwyn
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:103
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:107
 msgid "Sergeant Mugwyn"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:170
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:184
 msgid "I CURSE THEM!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:175
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:189
 msgid "Quiet! These soldiers could kill you with one blow!"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:179
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:193
 msgid ""
 "They tried to kill Skandix! They stab many times. Bog goblin, let us leave "
 "this place and I shall show you the cave of the dire wolf."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:183
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:197
 msgid ""
 "Sure, but first I want to see if this Francois character is as bad as they "
 "say."
 msgstr ""
 
 #. [message]: speaker=Francois
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:223
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:237
 msgid ""
 "We attack at dawn! Remember your training. You must fight your way inside "
 "the keep at all costs! Give no quarter and expect none in return! I have "
@@ -4361,139 +4363,139 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mugwyn
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:231
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:245
 msgid "Who the hell are you?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:238
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:252
 msgid "We are the explosives experts, of course."
 msgstr ""
 
 #. [message]: speaker=Francois
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:245
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:259
 msgid "Mister Blydd? I had no idea you were an orc."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:252
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:266
 msgid "A goblin, in fact. And this is my assistant, Skandix."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:264
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:278
 msgid "In his tongue, that means, <i>A thousand greetings.</i>"
 msgstr ""
 
 #. [message]: speaker=Francois
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:268
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:282
 msgid "Have you built the bomb, Mister Blydd?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:272
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:286
 msgid "The bomb? Of course I have built the bomb."
 msgstr ""
 
 #. [message]: speaker=Francois
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:276
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:290
 msgid "Is it ready to be deployed?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:280
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:294
 msgid "I could blow it up right now if you like."
 msgstr ""
 
 #. [message]: speaker=Francois
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:284
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:298
 msgid "Stap my vitals! You brought it with you?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:288
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:302
 msgid "It's very small. But very ... explosive."
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:292
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:306
 msgid "DEATH SHALL RAIN DOWN UPON YOU!"
 msgstr ""
 
 #. [message]: speaker=Francois
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:296
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:310
 msgid "I do like his spirit!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:300
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:314
 msgid "Francois, you have not told me where the bomb will be placed."
 msgstr ""
 
 #. [message]: speaker=Francois
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:304
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:318
 msgid "Never you mind, all will be clear soon."
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:324
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:338
 msgid "What's this? Can I trust no one?"
 msgstr ""
 
 #. [message]: speaker=Francois
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:328
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:342
 msgid "You knew this was inevitable, you bloodthirsty blackguard!"
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:332
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:346
 msgid ""
 "I expected it from you, Francois. But I'm very disappointed in my hired "
 "assassin."
 msgstr ""
 
 #. [message]: speaker=Francois
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:339
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:353
 msgid "You sent an assassin?"
 msgstr ""
 
 #. [event]: (type=Goblin Cutthroat)}, (id=Skandix) facing sw}, (id=Francois) facing nw}, (id=Clammie) 5 6}, (id=Skandix) 6 5}, (id=Skandix) facing nw}, (id=Clammie) facing nw}, (id=Mugwyn) 7 7}, (id=Mugwyn) 6 6}, (id=Clammie) facing se}, (id=Francois) facing se}, (id=Clammie) facing nw}, (id=Skandix) facing nw}, (id=Archduke) facing nw}, (id=Clammie) facing se}, (id=Blydd) 7 7}, (id=Mugwyn) facing s}, (id=Clammie) facing nw}
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:343
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:357
 msgid "Mister Blydd"
 msgstr ""
 
 #. [message]: speaker=Blydd
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:351
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:365
 msgid "I'm Mister Blydd. I'm looking for the Master At Arms."
 msgstr ""
 
 #. [message]: speaker=Mugwyn
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:355
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:369
 msgid "Nice try, impostor!"
 msgstr ""
 
 #. [message]: speaker=Francois
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:397
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:411
 msgid "Your assassin is dead! Surrender now!"
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:402
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:416
 msgid "Nuts!"
 msgstr ""
 
 #. [message]: speaker=Francois
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:406
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:420
 msgid "So be it!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:413
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:427
 msgid "Francois? You're attacking your own leader?"
 msgstr ""
 
 #. [message]: speaker=Francois
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:417
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:431
 msgid ""
 "If you know him, Mister Blydd, you know he is an incompetent, dissembling "
 "hedge-pig! A tottering, motley-minded lout! A stinkard! His death will save "
@@ -4501,132 +4503,132 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:421
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:435
 msgid "Spoken as a true man of peace."
 msgstr ""
 
 #. [message]: speaker=Francois
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:425
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:439
 msgid "Just bring the bomb to the Archduke's keep and set it off on my order."
 msgstr ""
 
 #. [objective]: condition=win
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:433
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:447
 msgid "Move Clammie to the Archduke's Keep"
 msgstr ""
 
 #. [objective]: condition=lose
 #: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:329
 #: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:360
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:441
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:631
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:455
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:632
 #: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:830
-#: Swamplings/scenarios/14_Dire_Cave.cfg:723
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1675
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2483
+#: Swamplings/scenarios/14_Dire_Cave.cfg:721
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1666
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2469
 msgid "Death of Skandix"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:495
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:498
 msgid "This will be difficult! Why do you follow the human's order?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:499
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:502
 msgid "I'm sure you know, I have no bomb, Skandix."
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:503
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:506
 msgid "Yess ... just wanted to know how far that lie would carry you."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:507
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:510
 msgid ""
 "It won't carry us past the Archduke's spearmen, that much is certain. Hey, "
 "Skandix, do you know anything about potions?"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:511
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:514
 msgid "Of course! Skandix is an Augur! We know all things!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:515
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:518
 msgid "Well, could you tell me what this potion does?"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:519
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:522
 msgid "<i>sniff sniff</i> ... is very potent!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:523
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:526
 msgid "It was the property of, um, a friend --"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:527
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:530
 msgid "Drink it and find out!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:531
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:534
 msgid "Invaluable advice."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:537
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:540
 msgid ""
 "Clammie has temporarily gained the ability to nightstalk! He will be "
 "invisible to enemies at night (unless he stands next to one)."
 msgstr ""
 
 #. [message]: speaker=Francois
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:576
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:577
 msgid "Now, Mister Blydd! Set off the bomb!"
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:580
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:581
 msgid "Nooooooooooooo!"
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:587
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:588
 msgid ""
 "What bomb? Don't set off the bomb! Don't destroy my beautiful keep! I never "
 "suspected you were a demolition expert!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:591
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:592
 msgid "Since you have asked so nicely, I will not destroy your keep."
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:595
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:596
 msgid ""
 "You are a great ally! A powerful mage, I suspect! But what shall we do about "
 "Francois? He's a madman, a bloody-minded madman!"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:603
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:604
 msgid "I CURSE HIM!"
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:608
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:609
 msgid "Use my keep, Clammie. We must defeat Francois!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:623
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:624
 #: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:822
 msgid "Defeat enemy leader (Francois)"
 msgstr ""
@@ -4634,7 +4636,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:333
 #: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:364
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:635
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:636
 #: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:834
 msgid "Death of Kennison (if recruited)"
 msgstr ""
@@ -4642,23 +4644,23 @@ msgstr ""
 #. [objective]: condition=lose
 #: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:337
 #: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:368
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:639
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:640
 #: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:838
 msgid "Death of Eeep (if recruited)"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:689
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:690
 msgid "Hello, old friend!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:693
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:694
 msgid "You're not invisible any more?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:697
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:698
 msgid ""
 "The potion wore off. But I still have plenty of those death-drop arrows!"
 msgstr ""
@@ -4784,17 +4786,17 @@ msgid "Sergeant Mugwyn will blow up when killed. "
 msgstr ""
 
 #. [message]: speaker=Francois
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:904
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:903
 msgid "My aspirations are in tatters! My ambition in ashes!"
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:908
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:907
 msgid "You know I hate to gloat, but this is what you get for backstabbing."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:912
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:911
 msgid ""
 "And this is from the same man who put a price on his uncle's head. Come, "
 "Eeep, let us leave the mad world of men. The smell of the bog is much nicer "
@@ -4802,53 +4804,53 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:916
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:915
 msgid "Yess! To the bog! Deep within, to the cave of the dire wolf!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:961
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:959
 msgid "The keep is destroyed! We are defeated!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:527
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1012
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3138
-#: Swamplings/scenarios/16_Full_Circle.cfg:1365
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:526
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1010
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3121
+#: Swamplings/scenarios/16_Full_Circle.cfg:1362
 #: Swamplings/scenarios/15_Hammerheads.cfg:583
 msgid "I will try, dear Misris, but it will not be easy."
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1061
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1059
 msgid "I'm too injured to go on ... yet I must go on!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1092
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1089
 msgid "<i>Look out!</i>"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1151
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1145
 msgid "Revenge! For the multitudes in Xaffrasz!"
 msgstr ""
 
 #. [message]: speaker=Augalol
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1164
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1158
 msgid "Feeling lucky today?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1184
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1178
 msgid ""
 "Please don't! This is madness! What do we care of the Archduke and his petty "
 "squabbles?"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1188
+#: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1182
 msgid ""
 "I care not a mote! But if my hand were the slightest bit slower, it would be "
 "myself begging for mercy, and yourself denying it."
@@ -4945,7 +4947,7 @@ msgstr ""
 #. [event]: (type=Goblin Cutthroat)}, (id=Skandix) facing sw}, (id=Clammie) facing sw}, (id=Hertrazzir) facing ne}, (id=Irix) facing ne}, (type=Goblin Slave) facing nw}, (id=Reed) facing nw}
 #. [unit]: type=Goblin Mimic, id=Reed
 #: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:248
-#: Swamplings/scenarios/14_Dire_Cave.cfg:488
+#: Swamplings/scenarios/14_Dire_Cave.cfg:487
 msgid "Reed"
 msgstr ""
 
@@ -4986,24 +4988,24 @@ msgid ""
 msgstr ""
 
 #. [message]: role=dwarf
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:408
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:407
 msgid "What's this? Another blochin' bog?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:412
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:411
 msgid "No, it's the same bog."
 msgstr ""
 
 #. [message]: role=dwarf
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:416
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:415
 msgid ""
 "Are you seekin' to drown me, ye daft poltroon? A dwarven leg can't keep up "
 "in these sodden climes! Ah well, it's your gold. Mine now."
 msgstr ""
 
 #. [message]: speaker=Harxias
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:432
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:431
 msgid ""
 "You city dwellers have grown fat and ignorant. You do not even know why your "
 "ancestors chose this spot to build their city. We are nestled among the "
@@ -5011,111 +5013,111 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:448
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:447
 msgid "Was that an attempt to kill me?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:452
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:451
 msgid "Hrmmm?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:456
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:455
 msgid "If so, it was the biggest failure since your mother laid your egg."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:460
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:459
 msgid "HRRAARR!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:464
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:463
 msgid ""
 "Technically speaking, the nagani are livebearers, but I think she got your "
 "point."
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:480
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:479
 msgid "NAGAS! I CURSE YOU!"
 msgstr ""
 
 #. [message]: speaker=Hertrazzir
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:573
-#: Swamplings/scenarios/16_Full_Circle.cfg:1446
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:572
+#: Swamplings/scenarios/16_Full_Circle.cfg:1443
 msgid "Comrades! Promise me I shall never be forgotten!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:577
-#: Swamplings/scenarios/16_Full_Circle.cfg:1450
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:576
+#: Swamplings/scenarios/16_Full_Circle.cfg:1447
 msgid "what was her name?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:577
-#: Swamplings/scenarios/16_Full_Circle.cfg:1450
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:576
+#: Swamplings/scenarios/16_Full_Circle.cfg:1447
 msgid "Of course, certainly ... "
 msgstr ""
 
 #. [message]: speaker=Hertrazzir
 #. [message]: role=Hert_understudy
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:600
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:616
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:599
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:615
 msgid "Rest ye well, loyal servant!"
 msgstr ""
 
 #. [message]: speaker=Hertrazzir
 #. [message]: role=Hert_understudy
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:634
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:650
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:632
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:648
 msgid "We shall rebuild Xaffrasz! It shall be a great saurian city once again!"
 msgstr ""
 
 #. [message]: speaker=Irix
 #. [message]: role=Irix_understudy
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:665
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:685
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:662
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:682
 msgid ""
 "Larger than before, with more schools and temples! Bigger fortresses and "
 "many more slaves!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:694
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:690
 msgid ""
 "This was the most meaningless battle I've ever fought. All this to protect "
 "the cinders of a dead city!"
 msgstr ""
 
 #. [message]: role=advisor
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:740
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:736
 msgid ""
 "No, Clammie. It is people we fought for today. The saurian people and our "
 "people as well!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:744
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:740
 msgid "You mean, the slaves?"
 msgstr ""
 
 #. [message]: role=advisor
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:748
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:744
 msgid "We ought to take them with us."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:752
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:748
 msgid ""
 "Fine, round them up. The skinks won't like it but there's more of us than "
 "them. Hey, Skandix, it's time to go. Where is that misbegotten cave anyway?"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:756
+#: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:752
 msgid "Just up the hillside ... follow me!"
 msgstr ""
 
@@ -5144,7 +5146,7 @@ msgstr ""
 #. [event]: id=Xaztex x xaztex_x}, id=Xaztex y xaztex_y}, id=Xaztex
 #: Swamplings/scenarios/14_Dire_Cave.cfg:91
 #: Swamplings/scenarios/14_Dire_Cave.cfg:251
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3239
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3222
 msgid "Xaztex"
 msgstr ""
 
@@ -5286,22 +5288,22 @@ msgid "... it could mean your doom!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:519
+#: Swamplings/scenarios/14_Dire_Cave.cfg:517
 msgid "How long have you been a slave, $Mimic_name?"
 msgstr ""
 
 #. [message]: role=Mimic_Slave
-#: Swamplings/scenarios/14_Dire_Cave.cfg:523
+#: Swamplings/scenarios/14_Dire_Cave.cfg:521
 msgid "All my life, sir. Never knew a goblin could be anything else."
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:555
+#: Swamplings/scenarios/14_Dire_Cave.cfg:553
 msgid "We never mistreat our slaves! Only if they deserve it!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:559
+#: Swamplings/scenarios/14_Dire_Cave.cfg:557
 msgid ""
 "Many goblins do serve as slaves. We fight in orcish armies, but the orcs "
 "hardly consider us equals. My tribe descended from a small group that ... "
@@ -5310,24 +5312,24 @@ msgid ""
 msgstr ""
 
 #. [message]: role=Mimic_Slave
-#: Swamplings/scenarios/14_Dire_Cave.cfg:563
+#: Swamplings/scenarios/14_Dire_Cave.cfg:561
 msgid "That must be very difficult for you."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:567
+#: Swamplings/scenarios/14_Dire_Cave.cfg:565
 msgid "Freedom has some benefits, by the way."
 msgstr ""
 
 #. [message]: role=Mimic_Slave
-#: Swamplings/scenarios/14_Dire_Cave.cfg:571
+#: Swamplings/scenarios/14_Dire_Cave.cfg:569
 msgid ""
 "I wouldn't know. My master died when the city fell. I don't know what I'll "
 "do now. I'm lost in the world."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/14_Dire_Cave.cfg:623
+#: Swamplings/scenarios/14_Dire_Cave.cfg:621
 msgid ""
 "Why not cast your lot with us? I'm a bit lost in the world myself. I'm not "
 "safe around the Archduke any longer. He has about as much regard for me as "
@@ -5335,35 +5337,35 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:627
+#: Swamplings/scenarios/14_Dire_Cave.cfg:625
 msgid "I CURSE YOU, HUMAN!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:668
+#: Swamplings/scenarios/14_Dire_Cave.cfg:666
 msgid "Eeep -- put a few units between Skandix and myself."
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/14_Dire_Cave.cfg:672
+#: Swamplings/scenarios/14_Dire_Cave.cfg:670
 msgid "I thought he was your friend."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:676
+#: Swamplings/scenarios/14_Dire_Cave.cfg:674
 msgid ""
 "At best, we're partners, and this partnership may be coming to a sudden end."
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/14_Dire_Cave.cfg:680
+#: Swamplings/scenarios/14_Dire_Cave.cfg:678
 msgid ""
 "Just give me the word and he's skink soup. -- You no trust him? Then why do "
 "we follow him all this way?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:684
+#: Swamplings/scenarios/14_Dire_Cave.cfg:682
 msgid ""
 "Because this is the <i>Cave of the Dire Wolf,</i> and our tribe's entire "
 "future is tied in with wolves. If there's something here for us, we must "
@@ -5372,18 +5374,18 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:688
+#: Swamplings/scenarios/14_Dire_Cave.cfg:686
 msgid "Enough talk, bog goblin! Let us explore the cave!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Swamplings/scenarios/14_Dire_Cave.cfg:715
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2861
+#: Swamplings/scenarios/14_Dire_Cave.cfg:713
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2846
 msgid "Explore the Cave of the Dire Wolf"
 msgstr ""
 
 #. [message]: role=dwarf
-#: Swamplings/scenarios/14_Dire_Cave.cfg:748
+#: Swamplings/scenarios/14_Dire_Cave.cfg:745
 msgid ""
 "Aaaaaaaaaaaaarrk! Now here's the map for me, a nice, deadly cave crawl. I "
 "only wonder why you didn't call me sooner. Still, I can't fault ye for "
@@ -5391,44 +5393,44 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:752
+#: Swamplings/scenarios/14_Dire_Cave.cfg:749
 msgid ""
 "That's a very magnanamous statement, considering what a cantankerous old "
 "crank you are."
 msgstr ""
 
 #. [message]: role=dwarf
-#: Swamplings/scenarios/14_Dire_Cave.cfg:756
+#: Swamplings/scenarios/14_Dire_Cave.cfg:753
 msgid "Heh heh ... my gold, if you please."
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:772
+#: Swamplings/scenarios/14_Dire_Cave.cfg:769
 msgid "South east path!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/14_Dire_Cave.cfg:800
+#: Swamplings/scenarios/14_Dire_Cave.cfg:797
 msgid "You've never seen a spear like this! Take it?"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: Swamplings/scenarios/14_Dire_Cave.cfg:804
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2977
+#: Swamplings/scenarios/14_Dire_Cave.cfg:801
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2960
 msgid "Take it!"
 msgstr ""
 
 #. [object]: id=multi_spear
 #. [object]
-#: Swamplings/scenarios/14_Dire_Cave.cfg:809
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2981
+#: Swamplings/scenarios/14_Dire_Cave.cfg:806
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2964
 msgid "multi spear"
 msgstr ""
 
 #. [object]: id=multi_spear
 #. [object]
-#: Swamplings/scenarios/14_Dire_Cave.cfg:810
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2982
+#: Swamplings/scenarios/14_Dire_Cave.cfg:807
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2965
 msgid ""
 "This magical spear inflicts your choice of arcanic, arctic or volcanic "
 "damage."
@@ -5436,271 +5438,271 @@ msgstr ""
 
 #. [object]: id=multi_spear
 #. [object]
-#: Swamplings/scenarios/14_Dire_Cave.cfg:821
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2992
+#: Swamplings/scenarios/14_Dire_Cave.cfg:818
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2975
 msgid "You are no spear carrier! You are unworthy of this mighty weapon!"
 msgstr ""
 
 #. [effect]: type=arcane
-#: Swamplings/scenarios/14_Dire_Cave.cfg:850
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3016
+#: Swamplings/scenarios/14_Dire_Cave.cfg:847
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2999
 msgid "multi spear (arcanic)"
 msgstr ""
 
 #. [effect]: type=cold
-#: Swamplings/scenarios/14_Dire_Cave.cfg:861
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3026
+#: Swamplings/scenarios/14_Dire_Cave.cfg:858
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3009
 msgid "multi spear (arctic)"
 msgstr ""
 
 #. [effect]: type=fire
-#: Swamplings/scenarios/14_Dire_Cave.cfg:871
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3036
+#: Swamplings/scenarios/14_Dire_Cave.cfg:868
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3019
 msgid "multi spear (volcanic)"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: Swamplings/scenarios/14_Dire_Cave.cfg:883
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3048
+#: Swamplings/scenarios/14_Dire_Cave.cfg:880
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3031
 msgid "Leave it!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Swamplings/scenarios/14_Dire_Cave.cfg:894
+#: Swamplings/scenarios/14_Dire_Cave.cfg:891
 msgid "<i>gasps!</i>"
 msgstr ""
 
 #. [event]: id=Guardian, id=Guardian 23 27}, id=Guardian facing sw}
-#: Swamplings/scenarios/14_Dire_Cave.cfg:905
+#: Swamplings/scenarios/14_Dire_Cave.cfg:902
 msgid "Guardian"
 msgstr ""
 
 #. [message]: speaker=Guardian
-#: Swamplings/scenarios/14_Dire_Cave.cfg:918
+#: Swamplings/scenarios/14_Dire_Cave.cfg:915
 msgid "I have been guarding that spear for millenia. Who are you to steal it?"
 msgstr ""
 
 #. [message]: speaker=$id_of_spearholder
-#: Swamplings/scenarios/14_Dire_Cave.cfg:926
+#: Swamplings/scenarios/14_Dire_Cave.cfg:923
 msgid "Call me $name_of_spearholder the daring!"
 msgstr ""
 
 #. [message]: speaker=Guardian
-#: Swamplings/scenarios/14_Dire_Cave.cfg:930
+#: Swamplings/scenarios/14_Dire_Cave.cfg:927
 msgid "I will call you $name_of_spearholder the pile of ash shortly. Farewell."
 msgstr ""
 
 #. [then]: (id=Um_Brok) moves 0}
 #. [else]
-#: Swamplings/scenarios/14_Dire_Cave.cfg:956
-#: Swamplings/scenarios/14_Dire_Cave.cfg:984
+#: Swamplings/scenarios/14_Dire_Cave.cfg:951
+#: Swamplings/scenarios/14_Dire_Cave.cfg:978
 msgid "Um Brok"
 msgstr ""
 
 #. [message]: speaker=Um_Brok
-#: Swamplings/scenarios/14_Dire_Cave.cfg:960
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1039
+#: Swamplings/scenarios/14_Dire_Cave.cfg:955
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1032
 msgid "Want to talk ... but not to bat!"
 msgstr ""
 
 #. [message]: speaker=Um_Brok
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1076
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1068
 msgid "Fight."
 msgstr ""
 
 #. [message]: speaker=Um_Brok
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1087
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1079
 msgid "FIIIIIIGHT!"
 msgstr ""
 
 #. [unstore_unit]
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1132
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1124
 msgid "17"
 msgstr ""
 
 #. [message]: speaker=Um_Brok
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1162
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1153
 msgid "Huh! You strong. Maybe strong enough to fight the deads?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1169
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1160
 msgid "Um Brok, impressed by your strength, has joined your party!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1200
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1191
 msgid "Um Brok quaffs a healing potion."
 msgstr ""
 
 #. [message]: speaker=Um_Brok
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1258
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1249
 msgid "Nice spear over there. Long walk. Somebody want spear?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1271
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1262
 msgid "The mighty troll pushes hard against a crack in the cave wall!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1294
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1285
 msgid "Someone tell that troll he can take the spear for himself."
 msgstr ""
 
 #. [message]: speaker=Um_Brok
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1298
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1289
 msgid "NOO! UM BROK THROW ROOCK!"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1303
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1294
 msgid "Just nod! -- Nod! -- Nodding, yes!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1307
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1298
 msgid "To think, I was nervous when you befriended the rat."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1324
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1315
 msgid "Kennison, read me the words on the altar."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1331
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1322
 msgid "Sorry, I can't make sense of this saurian scrawl."
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1350
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1341
 msgid ""
 "<i>Here, the Augur Bright will place the corpse / Of his one true friend / "
 "And reap his reward.</i>"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1354
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1345
 msgid "It no say what your reward be?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1358
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1349
 msgid "Quite a savage way to treat your only friend, even for a saurian."
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1362
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1353
 msgid "Shut up, shut up! My friend speaks."
 msgstr ""
 
 #. [message]: speaker=Xaztex
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1383
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1374
 msgid "Is that you, Skandix?"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1387
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1378
 msgid "Yes, Xaztex. I have returned."
 msgstr ""
 
 #. [message]: speaker=Xaztex
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1391
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1382
 msgid "It must be time to fulfill the prophecy and meet your destiny."
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1395
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1386
 msgid ""
 "<i>And so the Augur Bright shall bear the corpse of the compassionate "
 "creature / To the cave of the dire wolf / And reap his reward.</i>"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1399
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1390
 msgid "Another reward? Or were you swindled the first time?"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1403
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1394
 msgid ""
 "Shut up! Kleezyx was the greatest of the oracles! He would never swindle me!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1407
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1398
 msgid "Where is Kleezyx now?"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1411
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1402
 msgid "I told you, he is dead!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1415
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1406
 msgid "Yes, but ... where is he?"
 msgstr ""
 
 #. [message]: speaker=Xaztex
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1420
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1411
 msgid ""
 "Kleezyx learned the ancient secrets of becoming a lich. But in the process, "
 "an error was made. A horrible error."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1458
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1449
 msgid "Get back!"
 msgstr ""
 
 #. [message]: speaker=Xaztex
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1462
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1453
 msgid ""
 "Kleezyx's great wisdom is lost to us now. He is merely a mindless, shambling "
 "cadaver."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1466
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1457
 msgid ""
 "If he made an error in his transformation to a lich, perhaps he made an "
 "error in the prophecy as well."
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1470
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1461
 msgid "Blasphemy!"
 msgstr ""
 
 #. [message]: speaker=Xaztex
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1474
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1465
 msgid "Blasphemy, yes. But it may be true."
 msgstr ""
 
 #. [message]: speaker=Kleezyx_Ghast
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1478
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1469
 msgid "You! Ska ... Skandix!"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1483
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1474
 msgid "Yes, my Oracle! It is I, Skandix!"
 msgstr ""
 
 #. [message]: speaker=Kleezyx_Ghast
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1487
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1478
 msgid "It is good you have come. For I ... am hungry."
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1578
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1569
 msgid "Poisoned! Is there nowhere I can heal?"
 msgstr ""
 
 #. [message]: speaker=Xaztex
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1582
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1573
 msgid ""
 "Find the altar of the Dire Wolf. There you will fully heal. But first you'll "
 "have to get past Kleezyx and his army of undead ... you'll never defeat them "
@@ -5708,81 +5710,81 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1586
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1577
 msgid ""
 "We have no magic users except Skandix, and he can't fight on the front lines "
 "with his injuries."
 msgstr ""
 
 #. [message]: role=Mimic_Slave
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1606
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1597
 msgid ""
 "Excuse me, sir, I served at an augur temple for many years and learned to "
 "mimic some of their spells."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1610
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1601
 msgid "Excellent."
 msgstr ""
 
 #. [message]: role=Mimic_Slave
 #. [message]: speaker=unit
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1614
-#: Swamplings/scenarios/16_Full_Circle.cfg:1745
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1605
+#: Swamplings/scenarios/16_Full_Circle.cfg:1742
 msgid "I curse you."
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1622
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1613
 msgid "Noo! More passion! More rage! I CURSE YOU!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1626
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1617
 msgid ""
 "Eeep, equip our wolf riders with as many torches as possible. It will cost a "
 "lot of gold, but fire may be our best weapon against the undead."
 msgstr ""
 
 #. [message]: speaker=Xaztex
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1630
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1621
 msgid ""
 "Clammie of the swamplings ... you may be the wisest of all goblins, but your "
 "strategy is lame."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1634
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1625
 msgid ""
 "I'm open to suggestions, Xaztex. Is there a battalion of paladins I have "
 "overlooked?"
 msgstr ""
 
 #. [message]: speaker=Xaztex
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1638
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1629
 msgid ""
 "No, but you just passed through a city of dead saurians. Their spirits would "
 "fight to help Skandix meet his destiny. Behold!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1667
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1658
 msgid "Defeat Kleezyx"
 msgstr ""
 
 #. [event]: id=Lavinia, id=Lavinia profile portraits/merfolk/enchantress.png}, id=Lavinia race merman}, id=Lavinia alignment lawful}
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1831
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1821
 msgid "Lavinia"
 msgstr ""
 
 #. [message]: speaker=Lavinia
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1870
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1858
 msgid "Begone, fool! I will only speak to your leader."
 msgstr ""
 
 #. [message]: speaker=Lavinia
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1884
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1872
 msgid ""
 "Wise leader, let me join your group! I have many treasures to offer you. "
 "Much gold and riches! I am a powerful fighter and will bring you many "
@@ -5791,218 +5793,218 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1888
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1876
 msgid "This all sounds a bit too --"
 msgstr ""
 
 #. [message]: speaker=Lavinia
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1892
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1880
 msgid ""
 "Wait! I know what you want! What your heart truly desires! I can bring your "
 "son back to life!"
 msgstr ""
 
 #. [message]: speaker=Terro
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1910
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1898
 msgid "-uuuuuuuuuuuh-"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1914
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1902
 msgid "Creature, you may not join us. You are not welcome."
 msgstr ""
 
 #. [message]: speaker=Lavinia
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1966
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1954
 msgid "Whether I am welcome or not, goblin, I shall follow thee."
 msgstr ""
 
 #. [message]: speaker=Lavinia
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1989
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1976
 msgid "Idiots! I would have made you immortal, like the Bones!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/14_Dire_Cave.cfg:1996
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1983
 msgid "Bones?"
 msgstr ""
 
 #. [message]: speaker=Lavinia
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2000
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1987
 msgid "Enjoy your ephemeral lifespan, insect!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2004
+#: Swamplings/scenarios/14_Dire_Cave.cfg:1991
 msgid "Eff ... eff???"
 msgstr ""
 
 #. [event]: id=Tyranny, id=Calumny, id=Phobia, id=Vanity, id=Rancor, id=Resentment, id=Want
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2028
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2015
 msgid "Tyranny"
 msgstr ""
 
 #. [event]: id=Tyranny, id=Calumny, id=Phobia, id=Vanity, id=Rancor, id=Resentment, id=Want
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2043
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2030
 msgid "Calumny"
 msgstr ""
 
 #. [event]: id=Tyranny, id=Calumny, id=Phobia, id=Vanity, id=Rancor, id=Resentment, id=Want
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2054
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2041
 msgid "Phobia"
 msgstr ""
 
 #. [event]: id=Tyranny, id=Calumny, id=Phobia, id=Vanity, id=Rancor, id=Resentment, id=Want
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2064
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2051
 msgid "Vanity"
 msgstr ""
 
 #. [event]: id=Tyranny, id=Calumny, id=Phobia, id=Vanity, id=Rancor, id=Resentment, id=Want
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2075
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2062
 msgid "Rancor"
 msgstr ""
 
 #. [event]: id=Tyranny, id=Calumny, id=Phobia, id=Vanity, id=Rancor, id=Resentment, id=Want
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2086
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2073
 msgid "Resentment"
 msgstr ""
 
 #. [event]: id=Tyranny, id=Calumny, id=Phobia, id=Vanity, id=Rancor, id=Resentment, id=Want
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2097
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2084
 msgid "Want"
 msgstr ""
 
 #. [message]: speaker=Resentment
 #. [message]: speaker=Calumny
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2104
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2141
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2091
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2128
 msgid "<i>We are the seven deadly bones --</i>"
 msgstr ""
 
 #. [message]: speaker=Phobia
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2109
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2096
 msgid "<i>-- Seven slashes every heart owns --</i>"
 msgstr ""
 
 #. [message]: speaker=Tyranny
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2113
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2100
 msgid "<i>-- Tyranny --</i>"
 msgstr ""
 
 #. [message]: speaker=Calumny
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2117
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2104
 msgid "<i>-- Calumny --</i>"
 msgstr ""
 
 #. [message]: speaker=Phobia
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2121
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2108
 msgid "<i>-- Phobia --</i>"
 msgstr ""
 
 #. [message]: speaker=Vanity
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2125
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2112
 msgid "<i>-- Vanity --</i>"
 msgstr ""
 
 #. [message]: speaker=Rancor
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2129
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2116
 msgid "<i>-- Rancor --</i>"
 msgstr ""
 
 #. [message]: speaker=Resentment
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2133
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2120
 msgid "<i>-- Resentment --</i>"
 msgstr ""
 
 #. [message]: speaker=Want
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2137
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2124
 msgid "<i>-- and Want.</i>"
 msgstr ""
 
 #. [message]: speaker=Tyranny
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2145
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2132
 msgid "<i>-- Your mind we rule, your dreams we haunt.</i>"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2178
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2165
 msgid "=squeek="
 msgstr ""
 
 #. [modify_side]
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2190
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2177
 msgid "Seven Deadly Bones"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2198
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2185
 msgid "A wave of palpable evil sweeps through the cave!"
 msgstr ""
 
 #. [message]: speaker=Vanity
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2369
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2356
 msgid "<i>Free!</i>"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2383
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2370
 msgid "A deep rumbling is heard as several cave walls slide open!"
 msgstr ""
 
 #. [message]: speaker=Kleezyx_Ghast
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2438
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2425
 msgid "I'm still hungry."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2463
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2450
 msgid ""
 "As the undead monstrosity releases its final breath, a nearby cave wall "
 "slides open!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2468
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2455
 msgid "Quickly! We must find that second altar!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2475
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2461
 msgid "Find the altar of the Dire Wolf!"
 msgstr ""
 
 #. [event]: id=Spirit, id=Skandix 14 18}, id=Skandix facing nw}, id=Skandix Direwolf}, id=Clammie 12 18}, id=Clammie facing ne}, id=Skandix facing se}, id=Clammie (Direwolf Rider Sw)}, (type=Goblin Knight 1Sw) type (Goblin Knight 2Sw)}, (type=Wolf Rider Sw) type (Wolf Rider 2Sw)}
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2512
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2497
 msgid "Spirit"
 msgstr ""
 
 #. [message]: speaker=Spirit
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2523
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2508
 msgid "Skandix of Xaffrasz?"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2531
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2516
 msgid "It is I."
 msgstr ""
 
 #. [message]: speaker=Spirit
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2535
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2520
 msgid "You were to bring the corpse of the compassionate creature."
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2539
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2524
 msgid "He is here, but still alive."
 msgstr ""
 
 #. [message]: speaker=Spirit
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2543
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2528
 msgid "Is this due to your own compassion? Or something else?"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2547
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2532
 msgid ""
 "In truth, I have seen the death of too many. My childhood friend Xaztex. "
 "Oracle Kleezyk. The people of Xaffrasz. An uncurable poison flows through my "
@@ -6011,77 +6013,77 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Spirit
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2551
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2536
 msgid ""
 "I can restore you to full health, Skandix of Xaffrasz, but the poison in "
 "your veins is undead. It will never leave you."
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2555
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2540
 msgid "So I must die."
 msgstr ""
 
 #. [message]: speaker=Spirit
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2559
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2544
 msgid ""
 "Your body cannot withstand the poison. But your body can be transformed."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2586
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2571
 msgid "No more 'I curse you'?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2594
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2579
 msgid "If you are still there, I'd like to ask a question."
 msgstr ""
 
 #. [message]: speaker=Spirit
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2601
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2586
 msgid "Speak, Clammie of the swamplings."
 msgstr ""
 
 #. [message]: speaker=Spirit
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2609
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2594
 msgid ""
 "I was called the Swift One by my people. I am the last of the dire wolves, "
 "until today. I have awaited this day for many ages."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2613
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2598
 msgid "Won't Skandix need a female to carry on the race?"
 msgstr ""
 
 #. [message]: speaker=Spirit
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2617
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2602
 msgid ""
 "Skandix can breed with any wolf he chooses. She will bear a litter of dire "
 "wolves."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2621
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2606
 msgid "What of the poison in his veins?"
 msgstr ""
 
 #. [message]: speaker=Spirit
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2625
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2610
 msgid ""
 "Skandix is now a poisonous creature. Anyone he scratches will be poisoned."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2629
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2614
 msgid ""
 "What would have happened if he fulfilled the prophecy? What would have been "
 "his reward?"
 msgstr ""
 
 #. [message]: speaker=Spirit
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2633
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2618
 msgid ""
 "Your question assumes that he failed. Skandix did not fail. The prophecy was "
 "told to him in a corrupted form. In spite of that, he did what he knew was "
@@ -6090,88 +6092,88 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2637
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2622
 msgid "It would be a great honor to ride this magnificent creature."
 msgstr ""
 
 #. [message]: speaker=Spirit
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2743
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2728
 msgid "Now I am free to meet my reward. Come, Xaztex."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2779
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2764
 msgid "Your Goblin Knights can now advance to Direwolf Riders!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2793
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2778
 msgid "Your Great Wolves can now advance to Direwolves!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2816
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2801
 msgid "This is cave is full of amazing things -- should we keep exploring?"
 msgstr ""
 
 #. [option]: speaker=Eeep
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2818
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2803
 msgid "We're finished! Let's go!"
 msgstr ""
 
 #. [option]: speaker=Eeep
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2826
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2811
 msgid "We must continue our exploration!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2839
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2824
 msgid ""
 "With the departure of Xaztex and the Swift One, an ancient evil stirs ..."
 msgstr ""
 
 #. [objectives]
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2876
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2861
 msgid ""
 "When you are finished exploring, move Clammie or Eeep to the mushroom patch "
 "at the cave entrance."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/14_Dire_Cave.cfg:2973
+#: Swamplings/scenarios/14_Dire_Cave.cfg:2956
 msgid ""
 "You've never seen a spear like this! (okay, maybe once before ... ) Take it?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3070
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3053
 msgid ""
 "Clammie, I recommend we take a different route on our way back. I expect the "
 "naga will return to Xaffrasz in greater numbers."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3074
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3057
 msgid "We can circle the bog, but that will take us into Orc territory."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3078
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3061
 msgid "Are the orc and goblin not brothers?"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3082
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3065
 msgid "Hah! Ask Yushnak the Ponderer!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3086
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3069
 msgid "Who the devil is Yushnak the Ponderer?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3090
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3073
 msgid ""
 "That is a long story. --Our tribe has had reasonably good relations with "
 "Hammerhead Clan and some of their smaller rivals. Once they see us on "
@@ -6179,54 +6181,54 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3094
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3077
 msgid "Along the way, could someone tell me about Yushnak the Ponderer?"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3098
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3081
 msgid "<i>spits</i>"
 msgstr ""
 
 #. [message]: speaker=Guardian
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3189
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3172
 msgid ""
 "$name_of_spearholder the daring, you have proven yourself worthy of the "
 "multi spear, in spite of your appearance. I pass on now to the next plane."
 msgstr ""
 
 #. [message]: speaker=$id_of_spearholder
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3193
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3176
 msgid "I will not be missing you."
 msgstr ""
 
 #. [message]: speaker=Guardian
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3197
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3180
 msgid "Most of those burns should heal in a few months. Again, farewell!"
 msgstr ""
 
 #. [message]: speaker=Guardian
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3203
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3186
 msgid ""
 "I pass on now to the next plane. No warrior here is worthy of the great "
 "multi spear!"
 msgstr ""
 
 #. [message]: speaker=Xaztex
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3219
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3202
 msgid "One such as myself is not so easily dispatched!"
 msgstr ""
 
 #. [message]: speaker=Reed
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3260
-#: Swamplings/scenarios/16_Full_Circle.cfg:1404
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3243
+#: Swamplings/scenarios/16_Full_Circle.cfg:1401
 #: Swamplings/scenarios/15_Hammerheads.cfg:632
 msgid "Farewell, my friends! Clammie, I never knew freedom until I met you."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/14_Dire_Cave.cfg:3264
-#: Swamplings/scenarios/16_Full_Circle.cfg:1408
+#: Swamplings/scenarios/14_Dire_Cave.cfg:3247
+#: Swamplings/scenarios/16_Full_Circle.cfg:1405
 #: Swamplings/scenarios/15_Hammerheads.cfg:636
 msgid "Rest well, loyal goblin!"
 msgstr ""
@@ -6241,7 +6243,7 @@ msgstr ""
 #. [part]
 #: Swamplings/scenarios/15_Hammerheads.cfg:37
 msgid ""
-"Who the devil was Yushnak the Ponderer? \n"
+"Who the devil was Yushnak the Ponderer?\n"
 "\n"
 "Yushnak ruled the Snakebite Clan for almost a generation. They were a tiny "
 "clan when he first came to power, but Yushnak the Ponderer built them up "
@@ -6540,7 +6542,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:1293
+#: Swamplings/scenarios/16_Full_Circle.cfg:1290
 #: Swamplings/scenarios/15_Hammerheads.cfg:549
 msgid "A more considered approach might have been prudent."
 msgstr ""
@@ -6570,19 +6572,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Erong
-#: Swamplings/scenarios/15_Hammerheads.cfg:704
+#: Swamplings/scenarios/15_Hammerheads.cfg:703
 msgid "I could have treated you far worse!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/15_Hammerheads.cfg:708
+#: Swamplings/scenarios/15_Hammerheads.cfg:707
 msgid ""
 "Then let it be written, Erong's virtue was his capacity to behave far worse "
 "than he actually did."
 msgstr ""
 
 #. [message]: speaker=Um_Brok
-#: Swamplings/scenarios/15_Hammerheads.cfg:712
+#: Swamplings/scenarios/15_Hammerheads.cfg:711
 msgid "Uh huh. Sounds good!"
 msgstr ""
 
@@ -6715,93 +6717,93 @@ msgstr ""
 #. [message]: speaker=Headbag
 #. [message]: speaker=Gralo
 #: Swamplings/scenarios/16_Full_Circle.cfg:524
-#: Swamplings/scenarios/16_Full_Circle.cfg:565
+#: Swamplings/scenarios/16_Full_Circle.cfg:564
 msgid "Fly, Bunnymuncher! Fly like the wind!"
 msgstr ""
 
 #. [else]
-#: Swamplings/scenarios/16_Full_Circle.cfg:553
+#: Swamplings/scenarios/16_Full_Circle.cfg:552
 msgid "Gralo"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:561
+#: Swamplings/scenarios/16_Full_Circle.cfg:560
 msgid ""
 "Gralo, make for the hills! Let the orcs know they finally have a chance to "
 "face the humans! The Archduke's army will fall this day!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Swamplings/scenarios/16_Full_Circle.cfg:596
-#: Swamplings/scenarios/16_Full_Circle.cfg:1126
+#: Swamplings/scenarios/16_Full_Circle.cfg:595
+#: Swamplings/scenarios/16_Full_Circle.cfg:1125
 msgid "Defeat the Archduke"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Swamplings/scenarios/16_Full_Circle.cfg:608
-#: Swamplings/scenarios/16_Full_Circle.cfg:1138
+#: Swamplings/scenarios/16_Full_Circle.cfg:607
+#: Swamplings/scenarios/16_Full_Circle.cfg:1137
 msgid "Death of Tikitiki"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:643
+#: Swamplings/scenarios/16_Full_Circle.cfg:642
 msgid "Eeep, send some riders to protect our merman ally."
 msgstr ""
 
 #. [message]: speaker=Tikitiki
-#: Swamplings/scenarios/16_Full_Circle.cfg:647
+#: Swamplings/scenarios/16_Full_Circle.cfg:646
 msgid "Clearly, you swamplings don't know the might of the army of Marinus!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/16_Full_Circle.cfg:651
+#: Swamplings/scenarios/16_Full_Circle.cfg:650
 msgid "Hey, we kicked your--"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:655
+#: Swamplings/scenarios/16_Full_Circle.cfg:654
 msgid "Eeep! There's no time for this diplomacy."
 msgstr ""
 
 #. [message]: role=dwarf
-#: Swamplings/scenarios/16_Full_Circle.cfg:668
+#: Swamplings/scenarios/16_Full_Circle.cfg:667
 msgid ""
 "Aaaaaaaaaaaaarrk! This blochin' bogfightin' will make me old before me time! "
 "I'm only five hundred and ought nine come Samhain!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:672
+#: Swamplings/scenarios/16_Full_Circle.cfg:671
 msgid "I'd build you a canoe, but we're in the middle of being ambushed."
 msgstr ""
 
 #. [message]: role=dwarf
-#: Swamplings/scenarios/16_Full_Circle.cfg:676
+#: Swamplings/scenarios/16_Full_Circle.cfg:675
 msgid "You're always with an excuse, you."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:680
+#: Swamplings/scenarios/16_Full_Circle.cfg:679
 msgid "And gold."
 msgstr ""
 
 #. [message]: role=dwarf
-#: Swamplings/scenarios/16_Full_Circle.cfg:684
+#: Swamplings/scenarios/16_Full_Circle.cfg:683
 msgid "Hahaha! Yes, and gold!"
 msgstr ""
 
 #. [event]: id=$id_of_messenger 34 3}, id=Grirk facing sw}
-#: Swamplings/scenarios/16_Full_Circle.cfg:706
+#: Swamplings/scenarios/16_Full_Circle.cfg:705
 msgid "Grirk"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/16_Full_Circle.cfg:814
+#: Swamplings/scenarios/16_Full_Circle.cfg:813
 msgid "$name_of_messenger is back with the orcs!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:821
+#: Swamplings/scenarios/16_Full_Circle.cfg:820
 msgid ""
 "My orcish brothers, you have fought with goblins by your side in many "
 "battles. May this battle be the first step toward a deeper understanding of "
@@ -6809,87 +6811,87 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Grirk
-#: Swamplings/scenarios/16_Full_Circle.cfg:825
+#: Swamplings/scenarios/16_Full_Circle.cfg:824
 msgid "Shaddap! We come to kill humans!"
 msgstr ""
 
 #. [message]: speaker=$id_of_messenger
-#: Swamplings/scenarios/16_Full_Circle.cfg:829
+#: Swamplings/scenarios/16_Full_Circle.cfg:828
 msgid ""
 "I also brought some saurians who want to poke holes in the Archduke's "
 "Xaffrasz policy."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:839
+#: Swamplings/scenarios/16_Full_Circle.cfg:838
 msgid "Hertrazzir!"
 msgstr ""
 
 #. [message]: speaker=Hertrazzir
 #. [message]: speaker=Zslap
-#: Swamplings/scenarios/16_Full_Circle.cfg:843
-#: Swamplings/scenarios/16_Full_Circle.cfg:850
+#: Swamplings/scenarios/16_Full_Circle.cfg:842
+#: Swamplings/scenarios/16_Full_Circle.cfg:849
 msgid "Those who set Xaffrasz ablaze shall pay this day!"
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:875
+#: Swamplings/scenarios/16_Full_Circle.cfg:874
 msgid ""
 "The biggest problem with these barbarians is their unwillingness to remain "
 "divided long enough for me to conquer them! Where's Sydd?"
 msgstr ""
 
 #. [else]: id=Yryrcyn facing se}, id=Archduke facing nw}
-#: Swamplings/scenarios/16_Full_Circle.cfg:897
+#: Swamplings/scenarios/16_Full_Circle.cfg:896
 msgid "Yryrcyn"
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:906
+#: Swamplings/scenarios/16_Full_Circle.cfg:905
 msgid ""
 "The biggest problem with these barbarians is their unwillingness to remain "
 "divided long enough for me to conquer them! Where's Yryrcyn?"
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:920
+#: Swamplings/scenarios/16_Full_Circle.cfg:919
 msgid "What's that, Yryrcyn?"
 msgstr ""
 
 #. [message]: role=Ads_toadie
-#: Swamplings/scenarios/16_Full_Circle.cfg:931
+#: Swamplings/scenarios/16_Full_Circle.cfg:930
 msgid "I said I'm right by your side."
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:935
+#: Swamplings/scenarios/16_Full_Circle.cfg:934
 msgid "Well don't just stand there, have the men wreck that bridge!"
 msgstr ""
 
 #. [message]: role=Ads_toadie
-#: Swamplings/scenarios/16_Full_Circle.cfg:943
+#: Swamplings/scenarios/16_Full_Circle.cfg:942
 msgid "<i>mutters!</i>"
 msgstr ""
 
 #. [message]: role=Ads_toadie
-#: Swamplings/scenarios/16_Full_Circle.cfg:971
+#: Swamplings/scenarios/16_Full_Circle.cfg:970
 msgid "I said, <i>stand clear!</i>"
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:1032
+#: Swamplings/scenarios/16_Full_Circle.cfg:1031
 msgid "Knight Shining? You are supposed to be rotting in my dungeon!"
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/16_Full_Circle.cfg:1041
+#: Swamplings/scenarios/16_Full_Circle.cfg:1040
 msgid ""
 "Your jailers can be bribed as easily as anyone else, my liege. How goes the "
 "battle?"
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:1046
+#: Swamplings/scenarios/16_Full_Circle.cfg:1045
 msgid ""
 "Who knows? They're all mucking about in the swamp there. I may have "
 "underestimated that goblin friend of yours. Have you brought any troops with "
@@ -6897,279 +6899,279 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/16_Full_Circle.cfg:1055
+#: Swamplings/scenarios/16_Full_Circle.cfg:1054
 msgid "A few woodsmen from the outlying farms."
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:1059
+#: Swamplings/scenarios/16_Full_Circle.cfg:1058
 msgid ""
 "Good show, old chap. I had no idea the woodsmen would be sympathetic to my "
 "cause."
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/16_Full_Circle.cfg:1068
+#: Swamplings/scenarios/16_Full_Circle.cfg:1067
 msgid "They are not, my liege. And neither am I."
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/16_Full_Circle.cfg:1098
+#: Swamplings/scenarios/16_Full_Circle.cfg:1097
 msgid "The humans fight for us?"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/16_Full_Circle.cfg:1102
+#: Swamplings/scenarios/16_Full_Circle.cfg:1101
 msgid ""
 "All we need is a battalion of swamp yeti riding undead gryphons and this war "
 "will be complete!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/16_Full_Circle.cfg:1106
+#: Swamplings/scenarios/16_Full_Circle.cfg:1105
 msgid "But ... something Clammie is not telling Eeep?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:1110
+#: Swamplings/scenarios/16_Full_Circle.cfg:1109
 msgid "Well --"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/16_Full_Circle.cfg:1114
+#: Swamplings/scenarios/16_Full_Circle.cfg:1113
 msgid "Not someone else to protect?"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:1118
+#: Swamplings/scenarios/16_Full_Circle.cfg:1117
 msgid "Well, he does fit in very nicely with my plans."
 msgstr ""
 
 #. [objective]: condition=lose
-#: Swamplings/scenarios/16_Full_Circle.cfg:1142
+#: Swamplings/scenarios/16_Full_Circle.cfg:1141
 msgid "Death of Shining"
 msgstr ""
 
 #. [message]: speaker=Phillips
-#: Swamplings/scenarios/16_Full_Circle.cfg:1157
+#: Swamplings/scenarios/16_Full_Circle.cfg:1156
 msgid ""
 "Many men have died today. There is no reason that I should too! I surrender."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:1161
+#: Swamplings/scenarios/16_Full_Circle.cfg:1160
 msgid ""
 "I leave you to the tender mercies of our mermen allies. They'll decide how "
 "to handle you."
 msgstr ""
 
 #. [message]: speaker=Phillips
-#: Swamplings/scenarios/16_Full_Circle.cfg:1165
+#: Swamplings/scenarios/16_Full_Circle.cfg:1164
 msgid "But I can't swim!"
 msgstr ""
 
 #. [message]: speaker=Tikitiki
-#: Swamplings/scenarios/16_Full_Circle.cfg:1169
+#: Swamplings/scenarios/16_Full_Circle.cfg:1168
 msgid "You shall learn."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/scenarios/16_Full_Circle.cfg:1181
+#: Swamplings/scenarios/16_Full_Circle.cfg:1180
 msgid "Phillips is taken into custody by the merfolk ..."
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:1195
+#: Swamplings/scenarios/16_Full_Circle.cfg:1193
 msgid "The world turned upside down! I have no choice but to say, I --"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:1199
+#: Swamplings/scenarios/16_Full_Circle.cfg:1197
 msgid "Of course. You surrender. I should cut your throat, villain."
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:1203
+#: Swamplings/scenarios/16_Full_Circle.cfg:1201
 msgid "But you won't, will you? You are a man of honor."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:1207
+#: Swamplings/scenarios/16_Full_Circle.cfg:1205
 msgid ""
 "No, I am a goblin of chaos. I'll accept your surrender on one condition. You "
 "must give half your lands to Knight Shining."
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:1211
+#: Swamplings/scenarios/16_Full_Circle.cfg:1209
 msgid "But then he'd be as powerful as I!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:1215
+#: Swamplings/scenarios/16_Full_Circle.cfg:1213
 msgid ""
 "That's the idea. You'll be too busy backstabbing each other to bother the "
 "rest of us."
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:1219
+#: Swamplings/scenarios/16_Full_Circle.cfg:1217
 msgid "Surely we can come to a better agreement."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:1223
+#: Swamplings/scenarios/16_Full_Circle.cfg:1221
 msgid ""
 "Well, I could turn you over to the orcs and let them use your ribcage as a "
 "smokestack."
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:1227
+#: Swamplings/scenarios/16_Full_Circle.cfg:1225
 msgid ""
 "You drive a hard bargain, swampling. I hereby give half my lands to Shining."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:1231
+#: Swamplings/scenarios/16_Full_Circle.cfg:1229
 msgid ""
 "And half your wealth for two projects: to rebuild Xaffrasz, and a new city "
 "here. The city of Eeep."
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:1239
+#: Swamplings/scenarios/16_Full_Circle.cfg:1237
 msgid "That's highly irregular!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:1243
+#: Swamplings/scenarios/16_Full_Circle.cfg:1241
 msgid ""
 "Yes, but I think you'll agree it's preferable to Grirk's smokestack policy."
 msgstr ""
 
 #. [message]: speaker=Grirk
 #. [message]: role=scary_orc
-#: Swamplings/scenarios/16_Full_Circle.cfg:1253
-#: Swamplings/scenarios/16_Full_Circle.cfg:1264
+#: Swamplings/scenarios/16_Full_Circle.cfg:1251
+#: Swamplings/scenarios/16_Full_Circle.cfg:1262
 msgid "Grrrr--"
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:1271
+#: Swamplings/scenarios/16_Full_Circle.cfg:1269
 msgid "I consent!"
 msgstr ""
 
 #. [message]: speaker=Tikitiki
-#: Swamplings/scenarios/16_Full_Circle.cfg:1310
+#: Swamplings/scenarios/16_Full_Circle.cfg:1307
 msgid "Please summon my priestess ... I am no more!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:1344
+#: Swamplings/scenarios/16_Full_Circle.cfg:1341
 msgid "Catastrophe! That scoundrel was the very center of my plan!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:1383
+#: Swamplings/scenarios/16_Full_Circle.cfg:1380
 msgid "The humans killed our Kennison!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/16_Full_Circle.cfg:1387
+#: Swamplings/scenarios/16_Full_Circle.cfg:1384
 msgid "I am greatly ... honored to hear you put it that way ... my friend ..."
 msgstr ""
 
 #. [message]: speaker=Grirk
-#: Swamplings/scenarios/16_Full_Circle.cfg:1420
+#: Swamplings/scenarios/16_Full_Circle.cfg:1417
 msgid ""
 "Let it be written ... Warlord Grirk was the greatest and strongest of his "
 "generation!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/16_Full_Circle.cfg:1424
+#: Swamplings/scenarios/16_Full_Circle.cfg:1421
 msgid "Honestly, I think I'm the only one here who can write my name!"
 msgstr ""
 
 #. [message]: speaker=Grirk
-#: Swamplings/scenarios/16_Full_Circle.cfg:1428
+#: Swamplings/scenarios/16_Full_Circle.cfg:1425
 msgid "Let it be carved in marble, taller than the cliffs!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/16_Full_Circle.cfg:1432
+#: Swamplings/scenarios/16_Full_Circle.cfg:1429
 msgid "You really need a sense of proportionality, old chap."
 msgstr ""
 
 #. [message]: speaker=Phillips
-#: Swamplings/scenarios/16_Full_Circle.cfg:1485
+#: Swamplings/scenarios/16_Full_Circle.cfg:1482
 msgid "Taste my triple-honed glaive, varlet!"
 msgstr ""
 
 #. [message]: speaker=Duldursil
-#: Swamplings/scenarios/16_Full_Circle.cfg:1499
+#: Swamplings/scenarios/16_Full_Circle.cfg:1496
 msgid "Take that, ye briny man!"
 msgstr ""
 
 #. [message]: speaker=Um_Brok
-#: Swamplings/scenarios/16_Full_Circle.cfg:1510
+#: Swamplings/scenarios/16_Full_Circle.cfg:1507
 msgid "YOU HIT UM BROK!"
 msgstr ""
 
 #. [message]: speaker=Um_Brok
-#: Swamplings/scenarios/16_Full_Circle.cfg:1522
+#: Swamplings/scenarios/16_Full_Circle.cfg:1519
 msgid "UM BROK HIT YOU!"
 msgstr ""
 
 #. [message]: speaker=Misris
-#: Swamplings/scenarios/16_Full_Circle.cfg:1534
+#: Swamplings/scenarios/16_Full_Circle.cfg:1531
 msgid "Farewell, coarse prince! Dream now and trouble us no more!"
 msgstr ""
 
 #. [message]: speaker=Grirk
-#: Swamplings/scenarios/16_Full_Circle.cfg:1545
+#: Swamplings/scenarios/16_Full_Circle.cfg:1542
 msgid ""
 "All you puny humans will fall to the mighty Warlord Grirk, the greatest orc "
 "who ever lived!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/16_Full_Circle.cfg:1549
+#: Swamplings/scenarios/16_Full_Circle.cfg:1546
 msgid "Look at that, old buckethead finally hit someone."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/16_Full_Circle.cfg:1560
+#: Swamplings/scenarios/16_Full_Circle.cfg:1557
 msgid "Why are the mermen attacking? We have no fight with you!"
 msgstr ""
 
 #. [message]: role=irate_merfolk
 #. [message]: speaker=unit
-#: Swamplings/scenarios/16_Full_Circle.cfg:1572
-#: Swamplings/scenarios/16_Full_Circle.cfg:1578
+#: Swamplings/scenarios/16_Full_Circle.cfg:1569
+#: Swamplings/scenarios/16_Full_Circle.cfg:1575
 msgid ""
 "I'm sure you'd rather have us turn our back, so you could strike us at your "
 "convenience. We've had enough of your perfidy!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Swamplings/scenarios/16_Full_Circle.cfg:1591
+#: Swamplings/scenarios/16_Full_Circle.cfg:1588
 msgid "So you want war? The Merfolk will gladly oblige you!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/16_Full_Circle.cfg:1602
+#: Swamplings/scenarios/16_Full_Circle.cfg:1599
 msgid "Kill the skinks first! They don't look like much, but they're crafty!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Swamplings/scenarios/16_Full_Circle.cfg:1606
+#: Swamplings/scenarios/16_Full_Circle.cfg:1603
 msgid "Kill the $second_unit.type! He's a buffoon."
 msgstr ""
 
 #. [message]: speaker=Resentment
-#: Swamplings/scenarios/16_Full_Circle.cfg:1620
+#: Swamplings/scenarios/16_Full_Circle.cfg:1617
 msgid ""
 "     <i>Now it's time to say goodnight,\n"
 "        You were a worthy foe,\n"
@@ -7178,168 +7180,168 @@ msgid ""
 msgstr ""
 
 #. [message]: role=nearby_fencer
-#: Swamplings/scenarios/16_Full_Circle.cfg:1639
+#: Swamplings/scenarios/16_Full_Circle.cfg:1636
 msgid "Hey look! It's Mister Blydd, the explosives guy."
 msgstr ""
 
 #. [message]: speaker=Phillips
-#: Swamplings/scenarios/16_Full_Circle.cfg:1649
+#: Swamplings/scenarios/16_Full_Circle.cfg:1646
 msgid "He duped you, cretin! He is Rashki the Slayer!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/16_Full_Circle.cfg:1653
+#: Swamplings/scenarios/16_Full_Circle.cfg:1650
 msgid ""
 "Shining told me, his name is Romny, some kind of goblin illusionist. Said he "
 "made a man vanish into thin air."
 msgstr ""
 
 #. [message]: role=nearby_fencer
-#: Swamplings/scenarios/16_Full_Circle.cfg:1662
+#: Swamplings/scenarios/16_Full_Circle.cfg:1659
 msgid "He's got a skeleton with him!"
 msgstr ""
 
 #. [message]: id=Resentment
-#: Swamplings/scenarios/16_Full_Circle.cfg:1666
+#: Swamplings/scenarios/16_Full_Circle.cfg:1663
 msgid "Resentment never dies."
 msgstr ""
 
 #. [message]: role=nearby_fencer
-#: Swamplings/scenarios/16_Full_Circle.cfg:1677
+#: Swamplings/scenarios/16_Full_Circle.cfg:1674
 msgid "A troll!"
 msgstr ""
 
 #. [message]: id=Um_Brok
-#: Swamplings/scenarios/16_Full_Circle.cfg:1681
+#: Swamplings/scenarios/16_Full_Circle.cfg:1678
 msgid "Shut up! Looking for rocks."
 msgstr ""
 
 #. [message]: role=nearby_fencer
-#: Swamplings/scenarios/16_Full_Circle.cfg:1688
+#: Swamplings/scenarios/16_Full_Circle.cfg:1685
 msgid ""
 "Orcs, skinks, and I think I see a dwarf! Gadzooks, he's got all Wesnoth "
 "allied against us!"
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:1698
+#: Swamplings/scenarios/16_Full_Circle.cfg:1695
 msgid ""
 "The man who brings me that villian's head shall have ten thousand gold, and "
 "the hand of my daughter. And I'll name the new plumbing system after him."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/16_Full_Circle.cfg:1715
+#: Swamplings/scenarios/16_Full_Circle.cfg:1712
 msgid "See? There's nothing we can't kill with forty or fifty arrows."
 msgstr ""
 
 #. [message]: speaker=Shining
-#: Swamplings/scenarios/16_Full_Circle.cfg:1719
+#: Swamplings/scenarios/16_Full_Circle.cfg:1716
 msgid "The poor sod looks like a porcupine."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/16_Full_Circle.cfg:1730
+#: Swamplings/scenarios/16_Full_Circle.cfg:1727
 msgid "I'm hit! How did that monster lay hands on a crossbow?"
 msgstr ""
 
 #. [message]: speaker=Bort
-#: Swamplings/scenarios/16_Full_Circle.cfg:1734
+#: Swamplings/scenarios/16_Full_Circle.cfg:1731
 msgid "The same way I'll soon lay hands on your silver brooch."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/16_Full_Circle.cfg:1750
+#: Swamplings/scenarios/16_Full_Circle.cfg:1747
 msgid "Skandix says, more vehemence!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Swamplings/scenarios/16_Full_Circle.cfg:1754
+#: Swamplings/scenarios/16_Full_Circle.cfg:1751
 msgid "I <i>curse</i> you. I CURSE YOU!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/16_Full_Circle.cfg:1758
+#: Swamplings/scenarios/16_Full_Circle.cfg:1755
 msgid "By jove, I think he's got it."
 msgstr ""
 
 #. [message]: speaker=Headbag
-#: Swamplings/scenarios/16_Full_Circle.cfg:1769
+#: Swamplings/scenarios/16_Full_Circle.cfg:1766
 msgid "Don't cry -- you look better without nose!"
 msgstr ""
 
 #. [message]: speaker=Augalol
-#: Swamplings/scenarios/16_Full_Circle.cfg:1784
+#: Swamplings/scenarios/16_Full_Circle.cfg:1781
 msgid "Right! Which one of ye's been dipping into me gunpowder?"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/16_Full_Circle.cfg:1788
+#: Swamplings/scenarios/16_Full_Circle.cfg:1785
 msgid "Very tasty!"
 msgstr ""
 
 #. [message]: speaker=Phillips
-#: Swamplings/scenarios/16_Full_Circle.cfg:1805
+#: Swamplings/scenarios/16_Full_Circle.cfg:1802
 msgid "Beware the mermaids! They attack with a magical water spray!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Swamplings/scenarios/16_Full_Circle.cfg:1809
+#: Swamplings/scenarios/16_Full_Circle.cfg:1806
 msgid "Har har, that's rich! They attack with a magical water spray!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/16_Full_Circle.cfg:1813
+#: Swamplings/scenarios/16_Full_Circle.cfg:1810
 msgid "Come closer, human! I've a boon to bestow!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Swamplings/scenarios/16_Full_Circle.cfg:1817
+#: Swamplings/scenarios/16_Full_Circle.cfg:1814
 msgid "A boon, fair lady? What is it?"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/16_Full_Circle.cfg:1821
+#: Swamplings/scenarios/16_Full_Circle.cfg:1818
 msgid "<i>No mercy.</i>"
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:1839
+#: Swamplings/scenarios/16_Full_Circle.cfg:1836
 msgid "Blast these bothersome bloodbats! Where are my bodyguards?"
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:1870
+#: Swamplings/scenarios/16_Full_Circle.cfg:1867
 msgid "More exasperations! Who the hell hired you?"
 msgstr ""
 
 #. [message]: speaker=Thief
-#: Swamplings/scenarios/16_Full_Circle.cfg:1874
+#: Swamplings/scenarios/16_Full_Circle.cfg:1871
 msgid "Some mumbly bloke."
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:1878
+#: Swamplings/scenarios/16_Full_Circle.cfg:1875
 msgid "I specifically wanted a mage to assist in healing!"
 msgstr ""
 
 #. [message]: speaker=Thief
-#: Swamplings/scenarios/16_Full_Circle.cfg:1882
+#: Swamplings/scenarios/16_Full_Circle.cfg:1879
 msgid "Grandfather, at the rate you pay, you're lucky to have anyone."
 msgstr ""
 
 #. [message]: speaker=Archduke
-#: Swamplings/scenarios/16_Full_Circle.cfg:1886
+#: Swamplings/scenarios/16_Full_Circle.cfg:1883
 msgid "Well, one of you do something about this bat!"
 msgstr ""
 
 #. [message]: speaker=Bodyguard_One
-#: Swamplings/scenarios/16_Full_Circle.cfg:1890
+#: Swamplings/scenarios/16_Full_Circle.cfg:1887
 msgid "Of course, sir. That is our job."
 msgstr ""
 
 #. [message]: speaker=Bodyguard_Two
-#: Swamplings/scenarios/16_Full_Circle.cfg:1894
+#: Swamplings/scenarios/16_Full_Circle.cfg:1891
 msgid "Leave it to us, sir."
 msgstr ""
 
@@ -7371,7 +7373,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Swamplings/scenarios/17_Credits.cfg:44
+#: Swamplings/scenarios/17_Credits.cfg:43
 msgid ""
 "Clammie lived to the ripe old age of 29 years. Every day he visited the "
 "grave of his son Terro and his wife, Mogsden. His reputation as a canny and "
@@ -7383,7 +7385,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Swamplings/scenarios/17_Credits.cfg:57
+#: Swamplings/scenarios/17_Credits.cfg:55
 msgid ""
 "Wolf riding quickly became common battlefield practice for goblins. The orcs "
 "saw the advantage wolf riders had, and demanded their goblins acquire this "
@@ -7393,7 +7395,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Swamplings/scenarios/17_Credits.cfg:70
+#: Swamplings/scenarios/17_Credits.cfg:67
 msgid ""
 "Grirk became the first orcish leader to formally recognize the inherent "
 "rights of goblins in his clan. While this was contemptuously construed by "
@@ -7403,7 +7405,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Swamplings/scenarios/17_Credits.cfg:86
+#: Swamplings/scenarios/17_Credits.cfg:81
 msgid ""
 "Bort, the archer who deserted the Hammerheads, became an official ambassador "
 "to the orcish clans. While he couldn’t keep every disagreement from turning "
@@ -7415,7 +7417,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Swamplings/scenarios/17_Credits.cfg:101
+#: Swamplings/scenarios/17_Credits.cfg:95
 msgid ""
 "Hertrazzir fell under the influence of a soothsayer in Xaffrasz, and "
 "abruptly declared war on the merfolk of Marinus. Throughout the years of "
@@ -7425,7 +7427,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Swamplings/scenarios/17_Credits.cfg:116
+#: Swamplings/scenarios/17_Credits.cfg:109
 msgid ""
 "Reed, who had spent all his life as a slave to the saurians, became "
 "ambassador to the city of Xaffrasz and eventually helped negotiate a "
@@ -7436,7 +7438,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Swamplings/scenarios/17_Credits.cfg:134
+#: Swamplings/scenarios/17_Credits.cfg:126
 msgid ""
 "Phillips became an invaluable aid to Tikitiki and the merfolk of Marinus, "
 "defending their city in the long war with the saurians. He taught their "
@@ -7446,7 +7448,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Swamplings/scenarios/17_Credits.cfg:150
+#: Swamplings/scenarios/17_Credits.cfg:141
 msgid ""
 "Duldursil eventually gathered together enough gold to replace all the "
 "thundersticks and return home to Dunkildorashir, there to spend his waning "
@@ -7455,7 +7457,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Swamplings/scenarios/17_Credits.cfg:167
+#: Swamplings/scenarios/17_Credits.cfg:157
 msgid ""
 "Augalol eventually gathered together enough gold to replace all the "
 "thundersticks and return home to Dunkildorashir, there to spend his waning "
@@ -7464,7 +7466,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Swamplings/scenarios/17_Credits.cfg:184
+#: Swamplings/scenarios/17_Credits.cfg:174
 msgid ""
 "Augalol and Duldursil eventually gathered together enough gold to replace "
 "all the thundersticks and return home to Dunkildorashir, there to spend "
@@ -7474,7 +7476,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Swamplings/scenarios/17_Credits.cfg:201
+#: Swamplings/scenarios/17_Credits.cfg:190
 msgid ""
 "Kennison, uncle to the Archduke, attempted to return to the town bearing his "
 "name but was poisoned -- whether by assassins in the employ of Shining or by "
@@ -7482,7 +7484,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Swamplings/scenarios/17_Credits.cfg:215
+#: Swamplings/scenarios/17_Credits.cfg:203
 msgid ""
 "Knight Shining remained in the town that bore his name until his death "
 "during a peasant uprising that many said was engineered by his rival, "
@@ -7490,114 +7492,114 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Swamplings/scenarios/17_Credits.cfg:226
+#: Swamplings/scenarios/17_Credits.cfg:214
 msgid ""
 "The Archduke outlived them all, dying peacefully in his bed at the age of "
 "fifty."
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:276
+#: Swamplings/scenarios/17_Credits.cfg:264
 msgid "John Rawlins (boru)"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:282
+#: Swamplings/scenarios/17_Credits.cfg:270
 msgid "mosquito, ghast & giant rat sprites"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:283
+#: Swamplings/scenarios/17_Credits.cfg:271
 msgid "Stern"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:289
+#: Swamplings/scenarios/17_Credits.cfg:277
 msgid "master of fire sprites & code"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:290
+#: Swamplings/scenarios/17_Credits.cfg:278
 msgid "Inferno8"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:297
+#: Swamplings/scenarios/17_Credits.cfg:285
 msgid "Rhyging"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:304
+#: Swamplings/scenarios/17_Credits.cfg:292
 msgid "Valkier"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:311
+#: Swamplings/scenarios/17_Credits.cfg:299
 msgid "bera"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:318
+#: Swamplings/scenarios/17_Credits.cfg:306
 msgid "scavenger"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:325
+#: Swamplings/scenarios/17_Credits.cfg:313
 msgid "Lord Bob"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:332
+#: Swamplings/scenarios/17_Credits.cfg:320
 msgid "Jormungandr"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:339
+#: Swamplings/scenarios/17_Credits.cfg:327
 msgid "Santiago Iborra"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:347
+#: Swamplings/scenarios/17_Credits.cfg:335
 msgid "Alarantalara"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:354
+#: Swamplings/scenarios/17_Credits.cfg:342
 msgid "BomSite"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:360
+#: Swamplings/scenarios/17_Credits.cfg:348
 msgid "thundergobo sprites & much more"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:361
+#: Swamplings/scenarios/17_Credits.cfg:349
 msgid "Elvish_Hunter"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:367
+#: Swamplings/scenarios/17_Credits.cfg:355
 msgid "statuary"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:368
+#: Swamplings/scenarios/17_Credits.cfg:356
 msgid "Kaldred"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:375
+#: Swamplings/scenarios/17_Credits.cfg:363
 msgid "JAP"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:381
+#: Swamplings/scenarios/17_Credits.cfg:369
 msgid "wolf riders art"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:382
+#: Swamplings/scenarios/17_Credits.cfg:370
 msgid "JWL"
 msgstr ""
 
@@ -7698,11 +7700,11 @@ msgstr ""
 
 #. [attack]: type=blade
 #: Swamplings/units/DWolf.cfg:35 Swamplings/units/Sw_Direwolf_Rider.cfg:45
-#: Swamplings/units/GWolf.cfg:35 Swamplings/units/Sw_Wolf.cfg:52
-#: Swamplings/units/Firefly.cfg:58 Swamplings/units/Sw_Pillager.cfg:49
-#: Swamplings/units/Sw_GKnight2.cfg:50 Swamplings/units/Sw_Wolf_Rider.cfg:66
-#: Swamplings/units/Sw_GKnight1.cfg:51 Swamplings/units/Cutthroat.cfg:57
-#: Swamplings/units/GWolf2.cfg:35
+#: Swamplings/units/Sw_Wolf_Rider2.cfg:66 Swamplings/units/GWolf.cfg:35
+#: Swamplings/units/Sw_Wolf.cfg:52 Swamplings/units/Firefly.cfg:58
+#: Swamplings/units/Sw_Pillager.cfg:49 Swamplings/units/Sw_GKnight2.cfg:50
+#: Swamplings/units/Sw_Wolf_Rider.cfg:66 Swamplings/units/Sw_GKnight1.cfg:51
+#: Swamplings/units/Cutthroat.cfg:57 Swamplings/units/GWolf2.cfg:35
 msgid "fangs"
 msgstr ""
 
@@ -7818,7 +7820,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=pierce
-#: Swamplings/units/Trumpeter.cfg:50 Swamplings/units/Peltast.cfg:47
+#: Swamplings/units/Trumpeter.cfg:49 Swamplings/units/Peltast.cfg:47
 #: Swamplings/units/Vundergobo.cfg:100 Swamplings/units/Thundergobo.cfg:99
 #: Swamplings/units/GWose.cfg:47 Swamplings/units/Trumpeter2.cfg:52
 #: Swamplings/units/Sw_Impaler.cfg:45 Swamplings/units/Sw_Impaler.cfg:57
@@ -8168,12 +8170,15 @@ msgid ""
 "dramatically advances their individual development."
 msgstr ""
 
+#. [unit_type]: id=Wolf Rider 2Sw, race=wolf
 #. [unit_type]: id=Wolf Rider Sw, race=wolf
-#: Swamplings/units/Sw_Wolf_Rider.cfg:7
+#: Swamplings/units/Sw_Wolf_Rider2.cfg:7 Swamplings/units/Sw_Wolf_Rider.cfg:7
 msgid "Wolf Rider"
 msgstr ""
 
+#. [unit_type]: id=Wolf Rider 2Sw, race=wolf
 #. [unit_type]: id=Wolf Rider Sw, race=wolf
+#: Swamplings/units/Sw_Wolf_Rider2.cfg:40
 #: Swamplings/units/Sw_Wolf_Rider.cfg:40
 msgid ""
 "No human is quite sure how the practice of taming and riding wolves came "
@@ -8245,7 +8250,7 @@ msgstr ""
 
 #. [unit_type]: id=Goblin Trumpeter, race=goblin
 #. [unit_type]: id=Goblin Trumpeter 2, race=goblin
-#: Swamplings/units/Trumpeter.cfg:25 Swamplings/units/Trumpeter2.cfg:28
+#: Swamplings/units/Trumpeter.cfg:24 Swamplings/units/Trumpeter2.cfg:28
 msgid ""
 "Only the best of rousers can hope to become a trumpeter. Trumpeters spend "
 "many hours studying the subtleties of the complex orc war signals. For the "
@@ -8464,7 +8469,7 @@ msgid "You cannot join my army, Resentment!"
 msgstr ""
 
 #. [message]: speaker=Want
-#: Swamplings/utils/bones.cfg:415
+#: Swamplings/utils/bones.cfg:414
 msgid "Didn't want <i>that!</i>"
 msgstr ""
 
@@ -8484,27 +8489,27 @@ msgid "I think my hammer jammed!"
 msgstr ""
 
 #. [message]: speaker=Skandix
-#: Swamplings/utils/deaths.cfg:63
+#: Swamplings/utils/deaths.cfg:62
 msgid "Not possible! The prophesy cannot be wrong!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/utils/deaths.cfg:80
+#: Swamplings/utils/deaths.cfg:79
 msgid "Howler! I raised her from a pup!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/utils/deaths.cfg:93
+#: Swamplings/utils/deaths.cfg:92
 msgid "Lupi! Poor Lupi!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/utils/deaths.cfg:105
+#: Swamplings/utils/deaths.cfg:104
 msgid "Leave my wolves alone!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Swamplings/utils/deaths.cfg:122
+#: Swamplings/utils/deaths.cfg:121
 msgid ""
 "And so ended the life of $name_of_spearholder the daring. Some say the "
 "mighty multi spear was destroyed in the intense battle, others say it was "
@@ -8513,17 +8518,17 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/utils/deaths.cfg:136
+#: Swamplings/utils/deaths.cfg:135
 msgid "Um Brok!"
 msgstr ""
 
 #. [message]: speaker=Bort
-#: Swamplings/utils/deaths.cfg:150
+#: Swamplings/utils/deaths.cfg:149
 msgid "Farewell, my friends!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/utils/deaths.cfg:154
+#: Swamplings/utils/deaths.cfg:153
 msgid "No, Bort! --We've lost a valiant warrior this day."
 msgstr ""
 
@@ -8533,7 +8538,7 @@ msgid "Change Eeep to a Wolf Rider"
 msgstr ""
 
 #. [set_menu_item]: id=wolfrider_option_m
-#: Swamplings/utils/menu.cfg:110
+#: Swamplings/utils/menu.cfg:109
 msgid "Change Misris to a Wolf Rider"
 msgstr ""
 
@@ -8553,7 +8558,7 @@ msgid "Better defense and quicker in swamp"
 msgstr ""
 
 #. [unstore_unit]
-#: Swamplings/utils/traits.cfg:159 Swamplings/utils/traits.cfg:206
+#: Swamplings/utils/traits.cfg:155 Swamplings/utils/traits.cfg:196
 msgid "MISFIRE!"
 msgstr ""
 
