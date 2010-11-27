@@ -1,3 +1,11 @@
+Version 1.1.3e - 11/24/10
+- New art: Misris portrait by GangrN, Goblin Prime sprites by Stern, saurian child sprite by artisticdude.
+- S14: Gave the ghost wolf a blank ellipse.
+- Changed image in campaign selection screen to use larger portrait of Clammie.
+- Fixed display bug with Troll Boulderlobber.
+- Impaler, Peltast, Prime, and Goblin Spearman now use the new gobo spear projectile.
+- Cutthroat unit now has an extra melee attack amla, instead of a useless ranged attack amla.
+
 Version 1.1.2e - 10/13/10
 - New trumpeter sprites by Stern.
 - New unmanned caravan in Thunderstruck.
