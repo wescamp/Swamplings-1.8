@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-11-13 02:14+0100\n"
+"POT-Creation-Date: 2010-11-29 14:50+0100\n"
 "PO-Revision-Date: 2010-05-18 10:37+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -43,7 +43,7 @@ msgid ""
 "Clammie, the chieftain of a primitive tribe of swamp goblins, becomes "
 "involved in the intrigues and betrayals of men.\n"
 "\n"
-"  Version 1.1.2e\n"
+"  Version 1.1.3e\n"
 "\n"
 "  14 scenarios. Complete. Please post your comments on this campaign in the "
 "Wesnoth forum!"
@@ -62,111 +62,118 @@ msgstr ""
 
 #. [about]
 #: Swamplings/_main.cfg:37
-msgid "Mosquito, Ghast & Giant Rat sprites"
+msgid "Trumpeter, Prime, Mosquito, Ghast & Giant Rat sprites"
 msgstr ""
 
 #. [about]
-#: Swamplings/_main.cfg:43
+#. [object]
+#: Swamplings/_main.cfg:43 Swamplings/scenarios/17_Credits.cfg:291
+msgid "Misris portrait"
+msgstr ""
+
+#. [about]
+#: Swamplings/_main.cfg:49
 msgid "Master of Fire sprite & code"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:49 Swamplings/scenarios/17_Credits.cfg:284
+#: Swamplings/_main.cfg:55 Swamplings/scenarios/17_Credits.cfg:284
 msgid "blazing mausoleum & wall torches"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:55 Swamplings/scenarios/17_Credits.cfg:291
+#: Swamplings/_main.cfg:61 Swamplings/scenarios/17_Credits.cfg:298
 msgid "undead portraits"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:61 Swamplings/scenarios/17_Credits.cfg:298
+#: Swamplings/_main.cfg:67 Swamplings/scenarios/17_Credits.cfg:305
 msgid "goblin portraits"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:67 Swamplings/scenarios/17_Credits.cfg:305
+#: Swamplings/_main.cfg:73 Swamplings/scenarios/17_Credits.cfg:312
 msgid "commander portrait & story art"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:73 Swamplings/scenarios/17_Credits.cfg:319
+#: Swamplings/_main.cfg:79 Swamplings/scenarios/17_Credits.cfg:326
 msgid "saurian augur portrait"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:79 Swamplings/scenarios/17_Credits.cfg:312
+#: Swamplings/_main.cfg:85 Swamplings/scenarios/17_Credits.cfg:319
 msgid "orc portraits"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:85 Swamplings/scenarios/17_Credits.cfg:326
-msgid "swordsman portrait"
+#: Swamplings/_main.cfg:91 Swamplings/scenarios/17_Credits.cfg:333
+msgid "goblin against wind & swordsman portrait"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:91 Swamplings/scenarios/17_Credits.cfg:334
+#: Swamplings/_main.cfg:97 Swamplings/scenarios/17_Credits.cfg:341
 msgid "waterfalls, animated pool and cave water tiles"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:97 Swamplings/scenarios/17_Credits.cfg:362
+#: Swamplings/_main.cfg:103 Swamplings/scenarios/17_Credits.cfg:376
 msgid "landscape art"
 msgstr ""
 
 #. [about]
-#: Swamplings/_main.cfg:103
+#: Swamplings/_main.cfg:109
 msgid "wolf rider art"
 msgstr ""
 
 #. [about]
 #. [object]
-#: Swamplings/_main.cfg:109 Swamplings/scenarios/17_Credits.cfg:341
+#: Swamplings/_main.cfg:115 Swamplings/scenarios/17_Credits.cfg:348
 msgid "mangroves and submerged trees"
 msgstr ""
 
 #. [about]
-#: Swamplings/_main.cfg:115
+#: Swamplings/_main.cfg:121
 msgid "thundergobo sprites & bosavi color"
 msgstr ""
 
 #. [about]
-#: Swamplings/_main.cfg:121
+#: Swamplings/_main.cfg:127
 msgid "boulderlobber sprite"
 msgstr ""
 
 #. [about]
-#: Swamplings/_main.cfg:127
-msgid "statues"
-msgstr ""
-
-#. [about]
-#: Swamplings/_main.cfg:133
-msgid "gravestone icon"
+#. [object]
+#: Swamplings/_main.cfg:133 Swamplings/scenarios/17_Credits.cfg:369
+msgid "statuary"
 msgstr ""
 
 #. [about]
 #: Swamplings/_main.cfg:139
+msgid "saurian child sprite & gravestone icon"
+msgstr ""
+
+#. [about]
+#: Swamplings/_main.cfg:145
 msgid "WML Hints & Tips"
 msgstr ""
 
 #. [about]
-#: Swamplings/_main.cfg:140
+#: Swamplings/_main.cfg:146
 msgid "from the regulars at the wesnoth.org forum"
 msgstr ""
 
 #. [entry]
-#: Swamplings/_main.cfg:163
+#: Swamplings/_main.cfg:169
 msgid "and others too numerous to mention"
 msgstr ""
 
@@ -572,10 +579,11 @@ msgstr ""
 
 #. [event]: id=Clammie x clammie_x}, id=Clammie y clammie_y}, id=Misris
 #. [unit]: id=Misris, type=Goblin Moonbeam
-#. [side]: id=Misris, type=Wolf Rider Sw
 #. [else]: id=Misris
+#. [side]: id=Misris, type=Wolf Rider Sw
 #: Swamplings/scenarios/01_Shining.cfg:570
 #: Swamplings/scenarios/08_Ride_The_Wolf.cfg:115
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:483
 #: Swamplings/scenarios/11_Thunderstruck.cfg:85
 #: Swamplings/scenarios/03_Exodus.cfg:139
 msgid "Misris"
@@ -640,7 +648,7 @@ msgstr ""
 
 #. [message]: speaker=Clammie
 #: Swamplings/scenarios/01_Shining.cfg:808
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:654
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:675
 msgid "I was certain we'd have defeated them by now!"
 msgstr ""
 
@@ -657,7 +665,7 @@ msgstr ""
 #. [message]: speaker=Clammie
 #: Swamplings/scenarios/01_Shining.cfg:847
 #: Swamplings/scenarios/02_Healer_And_Slayer.cfg:1270
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:609
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:630
 #: Swamplings/scenarios/03_Exodus.cfg:559
 msgid "But there is so much more--"
 msgstr ""
@@ -1436,7 +1444,7 @@ msgstr ""
 #. [message]: speaker=Clammie
 #: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:541
 #: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1040
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:592
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:613
 #: Swamplings/scenarios/14_Dire_Cave.cfg:3136
 #: Swamplings/scenarios/03_Exodus.cfg:577
 #: Swamplings/scenarios/16_Full_Circle.cfg:1324
@@ -2656,22 +2664,22 @@ msgid "Let's hope she prefers humans. Beware of Deep Ones, my friends!"
 msgstr ""
 
 #. [message]: speaker=Misris
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:513
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:534
 msgid "Deep One!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:524
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:545
 msgid "Jevyan's jumping jawbone!"
 msgstr ""
 
 #. [message]: speaker=Eeep
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:528
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:549
 msgid "It is said they are immortal!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:532
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:553
 msgid ""
 "They are not. Avoid her if you can, and let the humans die fighting her. But "
 "she can be killed, if you have no other choice."
@@ -2679,7 +2687,7 @@ msgstr ""
 
 #. [message]: speaker=Misris
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:691
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:626
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:647
 msgid "Ohhhh!"
 msgstr ""
 
@@ -2687,7 +2695,7 @@ msgstr ""
 #: Swamplings/scenarios/13_The_Ruins_Of_Xaffrasz.cfg:557
 #: Swamplings/scenarios/12_Meet_Mister_Blydd.cfg:1024
 #: Swamplings/scenarios/07_Selling_Bats_To_Merfolk.cfg:724
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:642
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:663
 #: Swamplings/scenarios/14_Dire_Cave.cfg:3152
 #: Swamplings/scenarios/16_Full_Circle.cfg:1376
 #: Swamplings/scenarios/09_Clammie_The_Healer.cfg:814
@@ -2696,24 +2704,24 @@ msgid "Rapscallion!"
 msgstr ""
 
 #. [message]: speaker=Cat
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:669
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:690
 msgid "Listen, I'll split the bounty with your tribe. Think of all that gold!"
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:673
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:694
 msgid "Perhaps, but I am wary of promises from a rogue."
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:683
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:704
 msgid ""
 "It was a noble act to come to my defense, Clammie. But I fear other bounty "
 "hunters will follow until I am brought to justice."
 msgstr ""
 
 #. [message]: speaker=Clammie
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:687
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:708
 msgid ""
 "We will fortify our new home patch and train our warriors harder! Also I "
 "have a special poison if things get desperate. Let us show the humans we "
@@ -2722,17 +2730,17 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:710
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:731
 msgid "I'm not here for swampling blood. Where's Kennison?"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:726
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:747
 msgid "Arrrrrrrrrrrrrrrrrrrrh!"
 msgstr ""
 
 #. [message]: speaker=Kennison
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:730
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:751
 msgid ""
 "<i>Tho' some may think you're quite a pest, I welcome you, our treasured "
 "guest, Here's wooden shafts with heads of steel, To pierce your heart and "
@@ -2741,7 +2749,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Misris
-#: Swamplings/scenarios/06_Rogues_Reward.cfg:742
+#: Swamplings/scenarios/06_Rogues_Reward.cfg:763
 msgid "Nice move ... unless you were aiming."
 msgstr ""
 
@@ -7495,7 +7503,7 @@ msgstr ""
 
 #. [object]
 #: Swamplings/scenarios/17_Credits.cfg:270
-msgid "mosquito, ghast & giant rat sprites"
+msgid "trumpeter, prime, mosquito, ghast & giant rat sprites"
 msgstr ""
 
 #. [object]
@@ -7520,76 +7528,86 @@ msgstr ""
 
 #. [object]
 #: Swamplings/scenarios/17_Credits.cfg:292
-msgid "Valkier"
+msgid "GangrN"
 msgstr ""
 
 #. [object]
 #: Swamplings/scenarios/17_Credits.cfg:299
-msgid "bera"
+msgid "Valkier"
 msgstr ""
 
 #. [object]
 #: Swamplings/scenarios/17_Credits.cfg:306
-msgid "scavenger"
+msgid "bera"
 msgstr ""
 
 #. [object]
 #: Swamplings/scenarios/17_Credits.cfg:313
-msgid "Lord Bob"
+msgid "scavenger"
 msgstr ""
 
 #. [object]
 #: Swamplings/scenarios/17_Credits.cfg:320
-msgid "Jormungandr"
+msgid "Lord Bob"
 msgstr ""
 
 #. [object]
 #: Swamplings/scenarios/17_Credits.cfg:327
+msgid "Jormungandr"
+msgstr ""
+
+#. [object]
+#: Swamplings/scenarios/17_Credits.cfg:334
 msgid "Santiago Iborra"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:335
+#: Swamplings/scenarios/17_Credits.cfg:342
 msgid "Alarantalara"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:342
+#: Swamplings/scenarios/17_Credits.cfg:349
 msgid "BomSite"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:348
+#: Swamplings/scenarios/17_Credits.cfg:355
 msgid "thundergobo sprites & much more"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:349
+#: Swamplings/scenarios/17_Credits.cfg:356
 msgid "Elvish_Hunter"
 msgstr ""
 
 #. [object]
-#: Swamplings/scenarios/17_Credits.cfg:355
-msgid "statuary"
-msgstr ""
-
-#. [object]
-#: Swamplings/scenarios/17_Credits.cfg:356
-msgid "Kaldred"
+#: Swamplings/scenarios/17_Credits.cfg:362
+msgid "saurian child sprite"
 msgstr ""
 
 #. [object]
 #: Swamplings/scenarios/17_Credits.cfg:363
-msgid "JAP"
-msgstr ""
-
-#. [object]
-#: Swamplings/scenarios/17_Credits.cfg:369
-msgid "wolf riders art"
+msgid "artisticdude"
 msgstr ""
 
 #. [object]
 #: Swamplings/scenarios/17_Credits.cfg:370
+msgid "Kaldred"
+msgstr ""
+
+#. [object]
+#: Swamplings/scenarios/17_Credits.cfg:377
+msgid "JAP"
+msgstr ""
+
+#. [object]
+#: Swamplings/scenarios/17_Credits.cfg:383
+msgid "wolf riders art"
+msgstr ""
+
+#. [object]
+#: Swamplings/scenarios/17_Credits.cfg:384
 msgid "JWL"
 msgstr ""
 
@@ -7814,7 +7832,7 @@ msgstr ""
 #: Swamplings/units/Vundergobo.cfg:100 Swamplings/units/Thundergobo.cfg:99
 #: Swamplings/units/GWose.cfg:47 Swamplings/units/Trumpeter2.cfg:52
 #: Swamplings/units/Sw_Impaler.cfg:45 Swamplings/units/Sw_Impaler.cfg:57
-#: Swamplings/units/GoblinPrime.cfg:51 Swamplings/units/GoblinPrime.cfg:60
+#: Swamplings/units/GoblinPrime.cfg:53 Swamplings/units/GoblinPrime.cfg:62
 #: Swamplings/units/Sw_Rouser2.cfg:49 Swamplings/units/Sw_Spearman.cfg:46
 #: Swamplings/units/Sw_Spearman.cfg:56 Swamplings/units/Sw_Rouser.cfg:49
 msgid "spear"
