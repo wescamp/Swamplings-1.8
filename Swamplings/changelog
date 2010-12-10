@@ -1,3 +1,12 @@
+Version 1.1.5e - 12/2/10
+- S2: Changed the method of counting bats to ensure against an intermittent bug. Shed location is picked at beginning of scenario to avoid console error message. Charmed bats with less than 1 hitpoint now die. Bats get full heal, attacks and movements restored before flying into the bat box.
+- S3,S4,S16: Changed goblin keep to match the one in Shining. 
+- S14: A black exclamation point appears when one of your units gets petrified.
+- S16: Finally changed the line "He's got all Wesnoth allied against us!" to "He's got all the continent allied against us!"
+- updated Easy/Medium/Hard icons to use Stern's custom sprites.
+- added Trumpeter and Prime northeast facing sprites.
+- removed strict_amla key from Prime unit type, to avoid console error message.
+
 Version 1.1.3e - 11/24/10
 - New art: Misris portrait by GangrN, Goblin Prime sprites by Stern, saurian child sprite by artisticdude.
 - S14: Gave the ghost wolf a blank ellipse.
