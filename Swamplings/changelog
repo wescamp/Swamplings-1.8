@@ -1,4 +1,16 @@
-Version 1.1.5e - 12/2/10
+Version 1.1.6e - 5/12/11
+- New art: added GangrN's Eeep and wolf portraits.
+- S1: Fixed some unit facings during dialogs.
+- S5: There are now 20 turns to find the Archduke. The first round of the Archduke's army will not have the quick trait. Initial dialog at trapdoor will be triggered if Kennison goes to the spot. In hard games, guards inside the secret passage are now set to ai guardian. Fixed a bug which sometimes put these guards into easy or regular difficulty games. Fixed bug that occurred if Clammie reaches the rope before Kennsion.
+- S12: Increased Sgt Mugwyn's hitpoints to 50.
+- S14: Some additional dialog regarding Ronry's robe. Some changes to the Limit Contemporaneous Recruit parameters for Kleezyk's army. 
+- S16: Recruited swamp wolves now receive orcish names.
+- S1,S3,S6,S11,S13,S15,S16: wolf battle macros.
+- Gave Nocturne an additional 5-3 hatchet attack.
+- Shortened some unnecessarily long binary paths in scenario and unit files.
+- ran wmllint & wmlscope.
+
+Version 1.1.5e - 12/3/10
 - S2: Changed the method of counting bats to ensure against an intermittent bug. Shed location is picked at beginning of scenario to avoid console error message. Charmed bats with less than 1 hitpoint now die. Bats get full heal, attacks and movements restored before flying into the bat box.
 - S3,S4,S16: Changed goblin keep to match the one in Shining. 
 - S14: A black exclamation point appears when one of your units gets petrified.
