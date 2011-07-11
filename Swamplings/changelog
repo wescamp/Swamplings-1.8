@@ -1,3 +1,31 @@
+Version 1.1.7e - 7/1/11
+- Added artisticdude's Merfolk Fighter animations and new sprite for the Goblin Jinx.
+- Added Santiago Iborra's orc drummer portrait.
+- New goblin slave sprites, frankensteined from Ken_Oh's Wesband.
+- In Easy games, you can now recruit level 1 goblins. This will make "Easy" games considerably more easy than before, but enemy sides have more gold and you have less than before--let me know what you think!
+- Adjusted gold settings in most scenarios. I decided it doesn't make sense to give any gold in scenarios 4,5,8 or 9.
+- Experimented with rank= key in main.cfg. This means the campaign will sort differently in the campaign selection list.
+- Rewrote the synopsis in the campaign selection screen, changed and resized the image.
+- Music credits included.
+- S1: Woodsmen now appear at the start of scenario. Fixed some dialog that made no sense if gobos are color blind. Reduced number of turns from 30 to 25.
+- S2: [disallow_recruit] for side 1. Bats will actually flap their wings while moving in scripted events. Clammie carries batbox with him, to cut down on the rather boring animation of bats flying into the box. Gohere icons will clarify the search quest.
+- S3: Second spawning of wild things happens further north. This event will no longer happen in Easy games. Fixed problem with some dialog that triggers at the death of Sklizle.
+- S4,5,12,14: Fixed some erroneous uses of the recruit= key.
+- S5: Fixed bug that made Kennison say "Egad" at the wrong time. Fixed bug that pointed to a non village location. Added a brief explanation about swinging in the sewer.
+- S6: Fixed bug that prevented some dialog if you don't recruit Misris in turn one. Moved a unit placement into prestart event to avoid fog changes before turn 1. Deep ones start surfacing earlier.
+- S11: Zslap remains in keep now.
+- S14: New teleport system to help you move your army around the cave more quickly.
+- S16: Astonishingly I had the name Ronry misspelled here as Romney! Fixed. New story part about Clammie's dream. Tikitiki now remains in his keep. For now, orc & saurian reinforcements arrive on turn 7 and Shining on turn 10 although this may need to be adjusted again.
+- Took away the Direwolf's pointless claw attack and gave him level 3 leadership over other wolves.
+- Firefly now has wildfire weapon special and no longer has nightstalk.
+- Cutthroat's ability is now properly defined as "rampage." Loot weapon special appears in description.
+- Shuffled around some unit portraits.
+- Added Hero_Deaths macro to S1&3.
+- Night and day versions of Misris, Eeep and wolf portraits should display at the proper times.
+- Added hide_help key to Great Wolf 2, Goblin Knight 2, Goblin Rouser 2, Saurian Child, Sergeant Mugwyn, Trumpeter 2, Wolf Rider 2.
+- Added [hide_help] tag to main.cfg to supress some mainline unit help pages.
+- Shortened some unnecessarily long binary paths.
+
 Version 1.1.6e - 5/12/11
 - New art: added GangrN's Eeep and wolf portraits.
 - S1: Fixed some unit facings during dialogs.
@@ -7,6 +35,7 @@ Version 1.1.6e - 5/12/11
 - S16: Recruited swamp wolves now receive orcish names.
 - S1,S3,S6,S11,S13,S15,S16: wolf battle macros.
 - Gave Nocturne an additional 5-3 hatchet attack.
+- Took away the Direwolf's pointless claw attack and gave him level 3 leadership over other wolves.
 - Shortened some unnecessarily long binary paths in scenario and unit files.
 - ran wmllint & wmlscope.
 
